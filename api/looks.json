@@ -1,0 +1,3837 @@
+{
+  "count": 253,
+  "looks": [
+    {
+      "id": "kv3_500t",
+      "name": "Kodak Vision3 500T",
+      "name_en": "Kodak Vision3 500T 5219",
+      "category": "neg",
+      "category_name": "電影底片",
+      "tags": [
+        "夜景",
+        "溫暖",
+        "柔和"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/kv3_500t.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/kv3_500t.cube"
+    },
+    {
+      "id": "kv3_250d",
+      "name": "Kodak Vision3 250D",
+      "name_en": "Kodak Vision3 250D 5207",
+      "category": "neg",
+      "category_name": "電影底片",
+      "tags": [
+        "溫暖",
+        "風景"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/kv3_250d.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/kv3_250d.cube"
+    },
+    {
+      "id": "kv3_200t",
+      "name": "Kodak Vision3 200T",
+      "name_en": "Kodak Vision3 200T 5213",
+      "category": "neg",
+      "category_name": "電影底片",
+      "tags": [
+        "柔和",
+        "人像"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/kv3_200t.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/kv3_200t.cube"
+    },
+    {
+      "id": "kv3_50d",
+      "name": "Kodak Vision3 50D",
+      "name_en": "Kodak Vision3 50D 5203",
+      "category": "neg",
+      "category_name": "電影底片",
+      "tags": [
+        "鮮豔",
+        "風景"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/kv3_50d.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/kv3_50d.cube"
+    },
+    {
+      "id": "eterna_250d",
+      "name": "Fuji Eterna 250D",
+      "name_en": "Fujifilm Eterna 250D 8563",
+      "category": "neg",
+      "category_name": "電影底片",
+      "tags": [
+        "低飽和",
+        "柔和",
+        "冷調"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/eterna_250d.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/eterna_250d.cube"
+    },
+    {
+      "id": "kodak_2383",
+      "name": "Kodak 2383 印片",
+      "name_en": "Kodak 2383 Print Film",
+      "category": "pfe",
+      "category_name": "印片模擬",
+      "tags": [
+        "戲劇",
+        "溫暖"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/kodak_2383.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/kodak_2383.cube"
+    },
+    {
+      "id": "kodak_2393",
+      "name": "Kodak 2393 印片",
+      "name_en": "Kodak 2393 Print Film",
+      "category": "pfe",
+      "category_name": "印片模擬",
+      "tags": [
+        "戲劇",
+        "鮮豔"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/kodak_2393.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/kodak_2393.cube"
+    },
+    {
+      "id": "fuji_3513",
+      "name": "Fuji 3513 印片",
+      "name_en": "Fujifilm 3513DI Print Film",
+      "category": "pfe",
+      "category_name": "印片模擬",
+      "tags": [
+        "冷調",
+        "戲劇"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/fuji_3513.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/fuji_3513.cube"
+    },
+    {
+      "id": "portra400",
+      "name": "Kodak Portra 400",
+      "name_en": "Kodak Portra 400",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "人像",
+        "溫暖",
+        "柔和"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/portra400.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/portra400.cube"
+    },
+    {
+      "id": "portra160",
+      "name": "Kodak Portra 160",
+      "name_en": "Kodak Portra 160",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "人像",
+        "柔和"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/portra160.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/portra160.cube"
+    },
+    {
+      "id": "ektar100",
+      "name": "Kodak Ektar 100",
+      "name_en": "Kodak Ektar 100",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "鮮豔",
+        "風景"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ektar100.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ektar100.cube"
+    },
+    {
+      "id": "gold200",
+      "name": "Kodak Gold 200",
+      "name_en": "Kodak Gold 200",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "溫暖",
+        "懷舊"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/gold200.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/gold200.cube"
+    },
+    {
+      "id": "ultramax400",
+      "name": "Kodak UltraMax 400",
+      "name_en": "Kodak UltraMax 400",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "溫暖",
+        "鮮豔"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ultramax400.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ultramax400.cube"
+    },
+    {
+      "id": "ektachrome",
+      "name": "Kodak Ektachrome E100",
+      "name_en": "Kodak Ektachrome E100",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "鮮豔",
+        "冷調"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ektachrome.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ektachrome.cube"
+    },
+    {
+      "id": "kodachrome",
+      "name": "Kodachrome 64",
+      "name_en": "Kodak Kodachrome 64",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "鮮豔",
+        "懷舊",
+        "戲劇"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/kodachrome.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/kodachrome.cube"
+    },
+    {
+      "id": "velvia50",
+      "name": "Fuji Velvia 50",
+      "name_en": "Fujifilm Velvia 50",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "鮮豔",
+        "風景"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/velvia50.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/velvia50.cube"
+    },
+    {
+      "id": "provia100f",
+      "name": "Fuji Provia 100F",
+      "name_en": "Fujifilm Provia 100F",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "風景"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/provia100f.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/provia100f.cube"
+    },
+    {
+      "id": "pro400h",
+      "name": "Fuji Pro 400H",
+      "name_en": "Fujifilm Pro 400H",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "柔和",
+        "人像",
+        "冷調"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/pro400h.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/pro400h.cube"
+    },
+    {
+      "id": "superia400",
+      "name": "Fuji Superia 400",
+      "name_en": "Fujifilm Superia X-TRA 400",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "冷調",
+        "懷舊"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/superia400.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/superia400.cube"
+    },
+    {
+      "id": "cinestill800t",
+      "name": "CineStill 800T",
+      "name_en": "CineStill 800T",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "夜景",
+        "冷調",
+        "戲劇"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/cinestill800t.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/cinestill800t.cube"
+    },
+    {
+      "id": "agfa_vista",
+      "name": "Agfa Vista 200",
+      "name_en": "Agfa Vista 200",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "溫暖",
+        "懷舊",
+        "鮮豔"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/agfa_vista.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/agfa_vista.cube"
+    },
+    {
+      "id": "lomo_purple",
+      "name": "LomoChrome Purple",
+      "name_en": "LomoChrome Purple",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "實驗"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/lomo_purple.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/lomo_purple.cube"
+    },
+    {
+      "id": "aerochrome",
+      "name": "Kodak Aerochrome",
+      "name_en": "Kodak Aerochrome（紅外線）",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "實驗",
+        "風景"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/aerochrome.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/aerochrome.cube"
+    },
+    {
+      "id": "classic_chrome",
+      "name": "Classic Chrome",
+      "name_en": "Fujifilm Classic Chrome",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "低飽和",
+        "懷舊"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/classic_chrome.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/classic_chrome.cube"
+    },
+    {
+      "id": "classic_neg",
+      "name": "Classic Neg.",
+      "name_en": "Fujifilm Classic Negative",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "戲劇",
+        "懷舊"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/classic_neg.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/classic_neg.cube"
+    },
+    {
+      "id": "eterna_sim",
+      "name": "Eterna",
+      "name_en": "Fujifilm Eterna",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "低飽和",
+        "柔和"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/eterna_sim.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/eterna_sim.cube"
+    },
+    {
+      "id": "eterna_bb",
+      "name": "Eterna Bleach Bypass",
+      "name_en": "Fujifilm Eterna Bleach Bypass",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "戲劇",
+        "低飽和"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/eterna_bb.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/eterna_bb.cube"
+    },
+    {
+      "id": "nostalgic_neg",
+      "name": "Nostalgic Neg.",
+      "name_en": "Fujifilm Nostalgic Negative",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "溫暖",
+        "懷舊"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/nostalgic_neg.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/nostalgic_neg.cube"
+    },
+    {
+      "id": "reala_ace",
+      "name": "Reala Ace",
+      "name_en": "Fujifilm Reala Ace",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "人像"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/reala_ace.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/reala_ace.cube"
+    },
+    {
+      "id": "teal_orange",
+      "name": "青橙色調",
+      "name_en": "Teal & Orange",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "戲劇",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/teal_orange.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/teal_orange.cube"
+    },
+    {
+      "id": "matrix",
+      "name": "駭客任務綠",
+      "name_en": "Matrix Green",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "冷調",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/matrix.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/matrix.cube"
+    },
+    {
+      "id": "fincher",
+      "name": "芬奇黃綠",
+      "name_en": "Fincher Look",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "低飽和",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/fincher.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/fincher.cube"
+    },
+    {
+      "id": "wes",
+      "name": "魏斯安德森粉彩",
+      "name_en": "Wes Anderson Pastel",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "柔和",
+        "溫暖",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/wes.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/wes.cube"
+    },
+    {
+      "id": "br2049",
+      "name": "銀翼殺手 2049 橙霧",
+      "name_en": "Blade Runner 2049 Orange",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "溫暖",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/br2049.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/br2049.cube"
+    },
+    {
+      "id": "amelie",
+      "name": "艾蜜莉紅綠金",
+      "name_en": "Amélie",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "溫暖",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/amelie.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/amelie.cube"
+    },
+    {
+      "id": "traffic",
+      "name": "沙漠黃褐",
+      "name_en": "Traffic / Mexico Yellow",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "溫暖",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/traffic.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/traffic.cube"
+    },
+    {
+      "id": "wkw",
+      "name": "王家衛霓虹",
+      "name_en": "Wong Kar-wai Neon",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "鮮豔",
+        "夜景",
+        "懷舊"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/wkw.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/wkw.cube"
+    },
+    {
+      "id": "cyberpunk",
+      "name": "賽博龐克",
+      "name_en": "Cyberpunk Neon",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "夜景",
+        "鮮豔",
+        "冷調"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/cyberpunk.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/cyberpunk.cube"
+    },
+    {
+      "id": "dune",
+      "name": "沙丘米褐",
+      "name_en": "Dune Desert",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "低飽和",
+        "溫暖",
+        "風景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/dune.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/dune.cube"
+    },
+    {
+      "id": "bleach",
+      "name": "漂白效果",
+      "name_en": "Bleach Bypass",
+      "category": "proc",
+      "category_name": "特殊沖印工藝",
+      "tags": [
+        "戲劇",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/bleach.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/bleach.cube"
+    },
+    {
+      "id": "cross",
+      "name": "交叉沖印",
+      "name_en": "Cross Processing",
+      "category": "proc",
+      "category_name": "特殊沖印工藝",
+      "tags": [
+        "實驗",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/cross.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/cross.cube"
+    },
+    {
+      "id": "dayfornight",
+      "name": "日以作夜",
+      "name_en": "Day for Night",
+      "category": "proc",
+      "category_name": "特殊沖印工藝",
+      "tags": [
+        "夜景",
+        "冷調"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/dayfornight.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/dayfornight.cube"
+    },
+    {
+      "id": "tech2",
+      "name": "雙色特藝",
+      "name_en": "Two-Strip Technicolor",
+      "category": "proc",
+      "category_name": "特殊沖印工藝",
+      "tags": [
+        "懷舊",
+        "實驗"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/tech2.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/tech2.cube"
+    },
+    {
+      "id": "tech3",
+      "name": "三色特藝",
+      "name_en": "Three-Strip Technicolor",
+      "category": "proc",
+      "category_name": "特殊沖印工藝",
+      "tags": [
+        "鮮豔",
+        "懷舊"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/tech3.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/tech3.cube"
+    },
+    {
+      "id": "70s",
+      "name": "70 年代",
+      "name_en": "1970s Faded",
+      "category": "era",
+      "category_name": "年代復古",
+      "tags": [
+        "懷舊",
+        "溫暖",
+        "柔和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/70s.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/70s.cube"
+    },
+    {
+      "id": "80s",
+      "name": "80 年代",
+      "name_en": "1980s Vivid",
+      "category": "era",
+      "category_name": "年代復古",
+      "tags": [
+        "懷舊",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/80s.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/80s.cube"
+    },
+    {
+      "id": "vhs",
+      "name": "90 年代錄影帶",
+      "name_en": "90s VHS",
+      "category": "era",
+      "category_name": "年代復古",
+      "tags": [
+        "懷舊",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/vhs.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/vhs.cube"
+    },
+    {
+      "id": "ccd",
+      "name": "Y2K CCD 數位相機",
+      "name_en": "Y2K CCD",
+      "category": "era",
+      "category_name": "年代復古",
+      "tags": [
+        "鮮豔",
+        "冷調"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ccd.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ccd.cube"
+    },
+    {
+      "id": "faded",
+      "name": "霧面褪色",
+      "name_en": "Faded Matte",
+      "category": "era",
+      "category_name": "年代復古",
+      "tags": [
+        "柔和",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/faded.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/faded.cube"
+    },
+    {
+      "id": "horror",
+      "name": "恐怖片",
+      "name_en": "Horror",
+      "category": "genre",
+      "category_name": "類型片",
+      "tags": [
+        "冷調",
+        "低飽和",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/horror.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/horror.cube"
+    },
+    {
+      "id": "noir",
+      "name": "新黑色電影",
+      "name_en": "Neo-Noir",
+      "category": "genre",
+      "category_name": "類型片",
+      "tags": [
+        "戲劇",
+        "夜景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/noir.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/noir.cube"
+    },
+    {
+      "id": "romance",
+      "name": "浪漫愛情",
+      "name_en": "Romance",
+      "category": "genre",
+      "category_name": "類型片",
+      "tags": [
+        "溫暖",
+        "柔和",
+        "人像"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/romance.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/romance.cube"
+    },
+    {
+      "id": "war",
+      "name": "戰爭片",
+      "name_en": "War",
+      "category": "genre",
+      "category_name": "類型片",
+      "tags": [
+        "低飽和",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/war.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/war.cube"
+    },
+    {
+      "id": "western",
+      "name": "西部片",
+      "name_en": "Western",
+      "category": "genre",
+      "category_name": "類型片",
+      "tags": [
+        "溫暖",
+        "戲劇",
+        "風景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/western.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/western.cube"
+    },
+    {
+      "id": "scifi",
+      "name": "科幻冷白",
+      "name_en": "Sci-Fi Clinical",
+      "category": "genre",
+      "category_name": "類型片",
+      "tags": [
+        "冷調",
+        "柔和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/scifi.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/scifi.cube"
+    },
+    {
+      "id": "nordic",
+      "name": "北歐冷調",
+      "name_en": "Nordic Noir",
+      "category": "genre",
+      "category_name": "類型片",
+      "tags": [
+        "冷調",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/nordic.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/nordic.cube"
+    },
+    {
+      "id": "bw_neutral",
+      "name": "中性黑白",
+      "name_en": "Neutral B&W",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/bw_neutral.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/bw_neutral.cube"
+    },
+    {
+      "id": "acros",
+      "name": "Acros 黑白",
+      "name_en": "Fujifilm Acros",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "戲劇",
+        "人像"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/acros.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/acros.cube"
+    },
+    {
+      "id": "trix",
+      "name": "Kodak Tri-X 400",
+      "name_en": "Kodak Tri-X 400",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "戲劇",
+        "懷舊"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/trix.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/trix.cube"
+    },
+    {
+      "id": "hp5",
+      "name": "Ilford HP5 Plus",
+      "name_en": "Ilford HP5 Plus",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "柔和",
+        "人像"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/hp5.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/hp5.cube"
+    },
+    {
+      "id": "redfilter",
+      "name": "紅濾鏡黑白",
+      "name_en": "B&W Red Filter",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "戲劇",
+        "風景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/redfilter.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/redfilter.cube"
+    },
+    {
+      "id": "sepia",
+      "name": "懷舊棕褐",
+      "name_en": "Sepia",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "懷舊",
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/sepia.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/sepia.cube"
+    },
+    {
+      "id": "cyanotype",
+      "name": "藍曬",
+      "name_en": "Cyanotype",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "冷調",
+        "實驗"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/cyanotype.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/cyanotype.cube"
+    },
+    {
+      "id": "moody",
+      "name": "暗調情緒",
+      "name_en": "Moody",
+      "category": "social",
+      "category_name": "社群流行色",
+      "tags": [
+        "低飽和",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/moody.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/moody.cube"
+    },
+    {
+      "id": "airy",
+      "name": "明亮清新",
+      "name_en": "Bright & Airy",
+      "category": "social",
+      "category_name": "社群流行色",
+      "tags": [
+        "柔和",
+        "人像"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/airy.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/airy.cube"
+    },
+    {
+      "id": "japanese",
+      "name": "日系空氣感",
+      "name_en": "Japanese Airy",
+      "category": "social",
+      "category_name": "社群流行色",
+      "tags": [
+        "柔和",
+        "冷調"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/japanese.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/japanese.cube"
+    },
+    {
+      "id": "golden",
+      "name": "金色夕陽",
+      "name_en": "Golden Hour",
+      "category": "social",
+      "category_name": "社群流行色",
+      "tags": [
+        "溫暖",
+        "風景",
+        "人像"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/golden.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/golden.cube"
+    },
+    {
+      "id": "food",
+      "name": "美食",
+      "name_en": "Food",
+      "category": "social",
+      "category_name": "社群流行色",
+      "tags": [
+        "溫暖",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/food.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/food.cube"
+    },
+    {
+      "id": "cold_teal",
+      "name": "冷灰青",
+      "name_en": "Cold Teal",
+      "category": "social",
+      "category_name": "社群流行色",
+      "tags": [
+        "冷調",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/cold_teal.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/cold_teal.cube"
+    },
+    {
+      "id": "k5247",
+      "name": "Kodak 5247",
+      "name_en": "Eastman Kodak 5247",
+      "category": "neg",
+      "category_name": "電影底片",
+      "tags": [
+        "懷舊",
+        "戲劇",
+        "溫暖"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/k5247.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/k5247.cube"
+    },
+    {
+      "id": "k5254",
+      "name": "Kodak 5254",
+      "name_en": "Eastman Kodak 5254 100T",
+      "category": "neg",
+      "category_name": "電影底片",
+      "tags": [
+        "懷舊",
+        "柔和",
+        "溫暖"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/k5254.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/k5254.cube"
+    },
+    {
+      "id": "kv500t_5279",
+      "name": "Kodak Vision 500T",
+      "name_en": "Kodak Vision 500T 5279",
+      "category": "neg",
+      "category_name": "電影底片",
+      "tags": [
+        "夜景",
+        "戲劇"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/kv500t_5279.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/kv500t_5279.cube"
+    },
+    {
+      "id": "k100d",
+      "name": "Kodak Ektachrome 100D",
+      "name_en": "Kodak Ektachrome 100D 5285",
+      "category": "neg",
+      "category_name": "電影底片",
+      "tags": [
+        "鮮豔",
+        "戲劇"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/k100d.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/k100d.cube"
+    },
+    {
+      "id": "eterna_vivid",
+      "name": "Fuji Eterna Vivid 500",
+      "name_en": "Fujifilm Eterna Vivid 500",
+      "category": "neg",
+      "category_name": "電影底片",
+      "tags": [
+        "鮮豔",
+        "夜景"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/eterna_vivid.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/eterna_vivid.cube"
+    },
+    {
+      "id": "reala500d",
+      "name": "Fuji Reala 500D",
+      "name_en": "Fujifilm Reala 500D",
+      "category": "neg",
+      "category_name": "電影底片",
+      "tags": [
+        "人像",
+        "柔和"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/reala500d.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/reala500d.cube"
+    },
+    {
+      "id": "fuji_f64d",
+      "name": "Fuji F-64D",
+      "name_en": "Fujifilm F-64D",
+      "category": "neg",
+      "category_name": "電影底片",
+      "tags": [
+        "冷調",
+        "風景"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/fuji_f64d.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/fuji_f64d.cube"
+    },
+    {
+      "id": "fuji_3523",
+      "name": "Fuji Eterna-CP 3523",
+      "name_en": "Fujifilm Eterna-CP 3523XD",
+      "category": "pfe",
+      "category_name": "印片模擬",
+      "tags": [
+        "柔和",
+        "低飽和"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/fuji_3523.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/fuji_3523.cube"
+    },
+    {
+      "id": "chain_500t_2383",
+      "name": "500T → 2383 底片鏈",
+      "name_en": "Kodak 5219 + 2383 Full Chain",
+      "category": "pfe",
+      "category_name": "印片模擬",
+      "tags": [
+        "戲劇",
+        "夜景",
+        "溫暖"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/chain_500t_2383.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/chain_500t_2383.cube"
+    },
+    {
+      "id": "chain_250d_2383",
+      "name": "250D → 2383 底片鏈",
+      "name_en": "Kodak 5207 + 2383 Full Chain",
+      "category": "pfe",
+      "category_name": "印片模擬",
+      "tags": [
+        "溫暖",
+        "風景",
+        "戲劇"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/chain_250d_2383.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/chain_250d_2383.cube"
+    },
+    {
+      "id": "chain_eterna_3513",
+      "name": "Eterna → 3513 底片鏈",
+      "name_en": "Fuji Eterna + 3513 Full Chain",
+      "category": "pfe",
+      "category_name": "印片模擬",
+      "tags": [
+        "冷調",
+        "低飽和",
+        "柔和"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/chain_eterna_3513.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/chain_eterna_3513.cube"
+    },
+    {
+      "id": "portra800",
+      "name": "Kodak Portra 800",
+      "name_en": "Kodak Portra 800",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "人像",
+        "溫暖",
+        "夜景"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/portra800.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/portra800.cube"
+    },
+    {
+      "id": "colorplus200",
+      "name": "Kodak ColorPlus 200",
+      "name_en": "Kodak ColorPlus 200",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "溫暖",
+        "懷舊"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/colorplus200.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/colorplus200.cube"
+    },
+    {
+      "id": "proimage100",
+      "name": "Kodak ProImage 100",
+      "name_en": "Kodak ProImage 100",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "人像",
+        "溫暖"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/proimage100.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/proimage100.cube"
+    },
+    {
+      "id": "fuji_c200",
+      "name": "Fuji C200",
+      "name_en": "Fujicolor C200",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "冷調",
+        "柔和",
+        "懷舊"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/fuji_c200.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/fuji_c200.cube"
+    },
+    {
+      "id": "superia200",
+      "name": "Fuji Superia 200",
+      "name_en": "Fujifilm Superia 200",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "冷調",
+        "風景"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/superia200.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/superia200.cube"
+    },
+    {
+      "id": "natura1600",
+      "name": "Fuji Natura 1600",
+      "name_en": "Fujifilm Natura 1600",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "夜景",
+        "柔和",
+        "冷調"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/natura1600.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/natura1600.cube"
+    },
+    {
+      "id": "astia100f",
+      "name": "Fuji Astia 100F",
+      "name_en": "Fujifilm Astia 100F",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "人像",
+        "柔和"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/astia100f.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/astia100f.cube"
+    },
+    {
+      "id": "velvia100",
+      "name": "Fuji Velvia 100",
+      "name_en": "Fujifilm Velvia 100",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "鮮豔",
+        "風景"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/velvia100.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/velvia100.cube"
+    },
+    {
+      "id": "fujicolor100",
+      "name": "Fujicolor 100（業務用）",
+      "name_en": "Fujicolor 100 Industrial",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "冷調",
+        "懷舊"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/fujicolor100.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/fujicolor100.cube"
+    },
+    {
+      "id": "agfa_ultra100",
+      "name": "Agfa Ultra 100",
+      "name_en": "Agfa Ultra 100",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "鮮豔"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/agfa_ultra100.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/agfa_ultra100.cube"
+    },
+    {
+      "id": "agfa_precisa",
+      "name": "Agfa Precisa 100",
+      "name_en": "Agfa CT Precisa 100",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "冷調",
+        "鮮豔"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/agfa_precisa.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/agfa_precisa.cube"
+    },
+    {
+      "id": "konica_centuria",
+      "name": "Konica Centuria",
+      "name_en": "Konica Centuria",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "冷調",
+        "懷舊"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/konica_centuria.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/konica_centuria.cube"
+    },
+    {
+      "id": "lomo400",
+      "name": "Lomography Color 400",
+      "name_en": "Lomography Color Negative 400",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "鮮豔",
+        "溫暖"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/lomo400.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/lomo400.cube"
+    },
+    {
+      "id": "lomo_metropolis",
+      "name": "LomoChrome Metropolis",
+      "name_en": "LomoChrome Metropolis",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "低飽和",
+        "戲劇",
+        "實驗"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/lomo_metropolis.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/lomo_metropolis.cube"
+    },
+    {
+      "id": "lomo_turquoise",
+      "name": "LomoChrome Turquoise",
+      "name_en": "LomoChrome Turquoise",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "實驗"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/lomo_turquoise.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/lomo_turquoise.cube"
+    },
+    {
+      "id": "cinestill50d",
+      "name": "CineStill 50D",
+      "name_en": "CineStill 50D",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "鮮豔",
+        "風景"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/cinestill50d.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/cinestill50d.cube"
+    },
+    {
+      "id": "cinestill400d",
+      "name": "CineStill 400D",
+      "name_en": "CineStill 400D",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "溫暖",
+        "柔和"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/cinestill400d.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/cinestill400d.cube"
+    },
+    {
+      "id": "harman_phoenix",
+      "name": "Harman Phoenix 200",
+      "name_en": "Harman Phoenix 200",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "實驗",
+        "溫暖",
+        "戲劇"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/harman_phoenix.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/harman_phoenix.cube"
+    },
+    {
+      "id": "polaroid600",
+      "name": "Polaroid 600",
+      "name_en": "Polaroid 600",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "懷舊",
+        "柔和",
+        "溫暖"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/polaroid600.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/polaroid600.cube"
+    },
+    {
+      "id": "sx70",
+      "name": "Polaroid SX-70",
+      "name_en": "Polaroid SX-70",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "懷舊",
+        "實驗"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/sx70.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/sx70.cube"
+    },
+    {
+      "id": "instax",
+      "name": "Fujifilm Instax",
+      "name_en": "Fujifilm Instax",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "柔和",
+        "冷調"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/instax.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/instax.cube"
+    },
+    {
+      "id": "portra400vc",
+      "name": "Kodak Portra 400VC",
+      "name_en": "Kodak Portra 400VC",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "人像",
+        "鮮豔"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/portra400vc.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/portra400vc.cube"
+    },
+    {
+      "id": "elitechrome",
+      "name": "Kodak Elite Chrome",
+      "name_en": "Kodak Elite Chrome 100",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "冷調",
+        "鮮豔"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/elitechrome.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/elitechrome.cube"
+    },
+    {
+      "id": "provia_std",
+      "name": "Provia／標準",
+      "name_en": "Fujifilm Provia / Standard",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "風景"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/provia_std.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/provia_std.cube"
+    },
+    {
+      "id": "velvia_vivid",
+      "name": "Velvia／鮮豔",
+      "name_en": "Fujifilm Velvia / Vivid",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "鮮豔",
+        "風景"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/velvia_vivid.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/velvia_vivid.cube"
+    },
+    {
+      "id": "astia_soft",
+      "name": "Astia／柔和",
+      "name_en": "Fujifilm Astia / Soft",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "人像",
+        "柔和"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/astia_soft.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/astia_soft.cube"
+    },
+    {
+      "id": "proneg_hi",
+      "name": "Pro Neg. Hi",
+      "name_en": "Fujifilm Pro Neg. Hi",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "人像"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/proneg_hi.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/proneg_hi.cube"
+    },
+    {
+      "id": "proneg_std",
+      "name": "Pro Neg. Std",
+      "name_en": "Fujifilm Pro Neg. Std",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "人像",
+        "柔和",
+        "低飽和"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/proneg_std.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/proneg_std.cube"
+    },
+    {
+      "id": "s_cinetone",
+      "name": "S-Cinetone",
+      "name_en": "Sony S-Cinetone",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "人像",
+        "柔和"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/s_cinetone.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/s_cinetone.cube"
+    },
+    {
+      "id": "sony_fl",
+      "name": "Sony FL",
+      "name_en": "Sony Creative Look FL",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "低飽和",
+        "冷調",
+        "戲劇"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/sony_fl.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/sony_fl.cube"
+    },
+    {
+      "id": "sony_in",
+      "name": "Sony IN",
+      "name_en": "Sony Creative Look IN",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "柔和",
+        "懷舊",
+        "低飽和"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/sony_in.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/sony_in.cube"
+    },
+    {
+      "id": "sony_sh",
+      "name": "Sony SH",
+      "name_en": "Sony Creative Look SH",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "柔和",
+        "人像"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/sony_sh.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/sony_sh.cube"
+    },
+    {
+      "id": "sony_vv2",
+      "name": "Sony VV2",
+      "name_en": "Sony Creative Look VV2",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "鮮豔",
+        "風景"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/sony_vv2.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/sony_vv2.cube"
+    },
+    {
+      "id": "canon_portrait",
+      "name": "Canon 人像色彩",
+      "name_en": "Canon Color Science",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "人像",
+        "溫暖"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/canon_portrait.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/canon_portrait.cube"
+    },
+    {
+      "id": "leica_chrome",
+      "name": "Leica Chrome",
+      "name_en": "Leica Looks - Chrome",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "鮮豔",
+        "戲劇"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/leica_chrome.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/leica_chrome.cube"
+    },
+    {
+      "id": "leica_eternal",
+      "name": "Leica Eternal",
+      "name_en": "Leica Looks - Eternal",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "低飽和",
+        "冷調"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/leica_eternal.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/leica_eternal.cube"
+    },
+    {
+      "id": "leica_classic",
+      "name": "Leica Classic",
+      "name_en": "Leica Looks - Classic",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "懷舊",
+        "溫暖"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/leica_classic.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/leica_classic.cube"
+    },
+    {
+      "id": "ricoh_positive",
+      "name": "GR 正片",
+      "name_en": "Ricoh GR Positive Film",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "鮮豔",
+        "戲劇"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ricoh_positive.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ricoh_positive.cube"
+    },
+    {
+      "id": "ricoh_negative",
+      "name": "GR 負片",
+      "name_en": "Ricoh GR Negative Film",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "低飽和",
+        "柔和"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ricoh_negative.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ricoh_negative.cube"
+    },
+    {
+      "id": "hasselblad",
+      "name": "Hasselblad 自然色彩",
+      "name_en": "Hasselblad Natural Colour Solution",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "人像",
+        "風景"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/hasselblad.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/hasselblad.cube"
+    },
+    {
+      "id": "lumix_classicneo",
+      "name": "L.ClassicNeo",
+      "name_en": "Panasonic L.ClassicNeo",
+      "category": "cam",
+      "category_name": "相機原廠風格",
+      "tags": [
+        "懷舊",
+        "溫暖"
+      ],
+      "source_type": "official",
+      "source_type_name": "原廠／相機內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/lumix_classicneo.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/lumix_classicneo.cube"
+    },
+    {
+      "id": "iph_amber",
+      "name": "iPhone 琥珀",
+      "name_en": "iPhone Photographic Style - Amber",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "溫暖",
+        "人像"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/iph_amber.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/iph_amber.cube"
+    },
+    {
+      "id": "iph_gold",
+      "name": "iPhone 金色",
+      "name_en": "iPhone Photographic Style - Gold",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "溫暖",
+        "人像"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/iph_gold.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/iph_gold.cube"
+    },
+    {
+      "id": "iph_rosegold",
+      "name": "iPhone 玫瑰金",
+      "name_en": "iPhone Photographic Style - Rose Gold",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "溫暖",
+        "柔和",
+        "人像"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/iph_rosegold.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/iph_rosegold.cube"
+    },
+    {
+      "id": "iph_cool",
+      "name": "iPhone 冷調",
+      "name_en": "iPhone Photographic Style - Cool",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "冷調"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/iph_cool.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/iph_cool.cube"
+    },
+    {
+      "id": "iph_ethereal",
+      "name": "iPhone 空靈",
+      "name_en": "iPhone Photographic Style - Ethereal",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "柔和",
+        "低飽和"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/iph_ethereal.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/iph_ethereal.cube"
+    },
+    {
+      "id": "iph_quiet",
+      "name": "iPhone 寧靜",
+      "name_en": "iPhone Photographic Style - Quiet",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "柔和",
+        "低飽和"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/iph_quiet.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/iph_quiet.cube"
+    },
+    {
+      "id": "iph_dramatic",
+      "name": "iPhone 戲劇",
+      "name_en": "iPhone Photographic Style - Dramatic",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "戲劇"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/iph_dramatic.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/iph_dramatic.cube"
+    },
+    {
+      "id": "iph_stark",
+      "name": "iPhone 鮮明黑白",
+      "name_en": "iPhone Photographic Style - Stark B&W",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "戲劇"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/iph_stark.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/iph_stark.cube"
+    },
+    {
+      "id": "ig_clarendon",
+      "name": "Clarendon",
+      "name_en": "Instagram Clarendon",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "鮮豔",
+        "冷調"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ig_clarendon.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ig_clarendon.cube"
+    },
+    {
+      "id": "ig_juno",
+      "name": "Juno",
+      "name_en": "Instagram Juno",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "溫暖",
+        "鮮豔"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ig_juno.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ig_juno.cube"
+    },
+    {
+      "id": "ig_gingham",
+      "name": "Gingham",
+      "name_en": "Instagram Gingham",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "懷舊",
+        "柔和"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ig_gingham.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ig_gingham.cube"
+    },
+    {
+      "id": "ig_valencia",
+      "name": "Valencia",
+      "name_en": "Instagram Valencia",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "溫暖",
+        "懷舊"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ig_valencia.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ig_valencia.cube"
+    },
+    {
+      "id": "ig_nashville",
+      "name": "Nashville",
+      "name_en": "Instagram Nashville",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "懷舊",
+        "溫暖"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ig_nashville.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ig_nashville.cube"
+    },
+    {
+      "id": "ig_xpro2",
+      "name": "X-Pro II",
+      "name_en": "Instagram X-Pro II",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "鮮豔",
+        "實驗"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ig_xpro2.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ig_xpro2.cube"
+    },
+    {
+      "id": "ig_lofi",
+      "name": "Lo-Fi",
+      "name_en": "Instagram Lo-Fi",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "鮮豔",
+        "戲劇"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ig_lofi.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ig_lofi.cube"
+    },
+    {
+      "id": "ig_hudson",
+      "name": "Hudson",
+      "name_en": "Instagram Hudson",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "冷調"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ig_hudson.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ig_hudson.cube"
+    },
+    {
+      "id": "vsco_a6",
+      "name": "VSCO A6",
+      "name_en": "VSCO A6",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "懷舊",
+        "柔和"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/vsco_a6.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/vsco_a6.cube"
+    },
+    {
+      "id": "vsco_c1",
+      "name": "VSCO C1",
+      "name_en": "VSCO C1",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "鮮豔"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/vsco_c1.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/vsco_c1.cube"
+    },
+    {
+      "id": "vsco_m5",
+      "name": "VSCO M5",
+      "name_en": "VSCO M5",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "低飽和",
+        "懷舊"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/vsco_m5.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/vsco_m5.cube"
+    },
+    {
+      "id": "vsco_hb2",
+      "name": "VSCO HB2",
+      "name_en": "VSCO HB2",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "冷調",
+        "低飽和"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/vsco_hb2.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/vsco_hb2.cube"
+    },
+    {
+      "id": "vsco_kk2",
+      "name": "VSCO KK2",
+      "name_en": "VSCO KK2",
+      "category": "app",
+      "category_name": "手機／App 濾鏡",
+      "tags": [
+        "溫暖",
+        "懷舊"
+      ],
+      "source_type": "builtin",
+      "source_type_name": "軟體／App 內建",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/vsco_kk2.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/vsco_kk2.cube"
+    },
+    {
+      "id": "joker",
+      "name": "小丑",
+      "name_en": "Joker (2019)",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "戲劇",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/joker.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/joker.cube"
+    },
+    {
+      "id": "her",
+      "name": "雲端情人",
+      "name_en": "Her",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "溫暖",
+        "柔和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/her.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/her.cube"
+    },
+    {
+      "id": "moonlight",
+      "name": "月光下的藍色男孩",
+      "name_en": "Moonlight",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "鮮豔",
+        "戲劇",
+        "夜景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/moonlight.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/moonlight.cube"
+    },
+    {
+      "id": "lalaland",
+      "name": "樂來越愛你",
+      "name_en": "La La Land",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "鮮豔",
+        "夜景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/lalaland.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/lalaland.cube"
+    },
+    {
+      "id": "sicario",
+      "name": "怒火邊界",
+      "name_en": "Sicario",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "低飽和",
+        "戲劇",
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/sicario.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/sicario.cube"
+    },
+    {
+      "id": "drive",
+      "name": "落日車神",
+      "name_en": "Drive",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "夜景",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/drive.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/drive.cube"
+    },
+    {
+      "id": "onlygod",
+      "name": "Only God Forgives 深紅",
+      "name_en": "Only God Forgives",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "戲劇",
+        "夜景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/onlygod.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/onlygod.cube"
+    },
+    {
+      "id": "barbie",
+      "name": "芭比粉",
+      "name_en": "Barbie (2023)",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "鮮豔",
+        "柔和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/barbie.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/barbie.cube"
+    },
+    {
+      "id": "oppenheimer",
+      "name": "奧本海默",
+      "name_en": "Oppenheimer",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "溫暖",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/oppenheimer.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/oppenheimer.cube"
+    },
+    {
+      "id": "batman2022",
+      "name": "蝙蝠俠 2022",
+      "name_en": "The Batman (2022)",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "戲劇",
+        "夜景",
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/batman2022.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/batman2022.cube"
+    },
+    {
+      "id": "obrother",
+      "name": "O Brother 枯黃",
+      "name_en": "O Brother, Where Art Thou?",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "懷舊",
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/obrother.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/obrother.cube"
+    },
+    {
+      "id": "children_of_men",
+      "name": "人類之子",
+      "name_en": "Children of Men",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "低飽和",
+        "冷調",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/children_of_men.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/children_of_men.cube"
+    },
+    {
+      "id": "minority",
+      "name": "關鍵報告",
+      "name_en": "Minority Report",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "冷調",
+        "低飽和",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/minority.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/minority.cube"
+    },
+    {
+      "id": "blackhawk",
+      "name": "黑鷹計畫",
+      "name_en": "Black Hawk Down",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "戲劇",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/blackhawk.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/blackhawk.cube"
+    },
+    {
+      "id": "tron",
+      "name": "創：光速戰記",
+      "name_en": "Tron: Legacy",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "夜景",
+        "冷調",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/tron.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/tron.cube"
+    },
+    {
+      "id": "revenant",
+      "name": "神鬼獵人",
+      "name_en": "The Revenant",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "冷調",
+        "風景",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/revenant.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/revenant.cube"
+    },
+    {
+      "id": "arrival",
+      "name": "異星入境",
+      "name_en": "Arrival",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "冷調",
+        "低飽和",
+        "柔和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/arrival.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/arrival.cube"
+    },
+    {
+      "id": "midsommar",
+      "name": "仲夏魘",
+      "name_en": "Midsommar",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "柔和",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/midsommar.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/midsommar.cube"
+    },
+    {
+      "id": "lost_translation",
+      "name": "愛情不用翻譯",
+      "name_en": "Lost in Translation",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "柔和",
+        "冷調",
+        "夜景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/lost_translation.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/lost_translation.cube"
+    },
+    {
+      "id": "cmbyn",
+      "name": "以你的名字呼喚我",
+      "name_en": "Call Me by Your Name",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "溫暖",
+        "人像",
+        "柔和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/cmbyn.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/cmbyn.cube"
+    },
+    {
+      "id": "f300",
+      "name": "300 壯士",
+      "name_en": "300",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "戲劇",
+        "低飽和",
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/f300.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/f300.cube"
+    },
+    {
+      "id": "lotr_shire",
+      "name": "魔戒夏爾",
+      "name_en": "The Lord of the Rings - Shire",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "溫暖",
+        "風景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/lotr_shire.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/lotr_shire.cube"
+    },
+    {
+      "id": "apocalypse",
+      "name": "現代啟示錄",
+      "name_en": "Apocalypse Now",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "溫暖",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/apocalypse.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/apocalypse.cube"
+    },
+    {
+      "id": "gladiator",
+      "name": "神鬼戰士",
+      "name_en": "Gladiator",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "戲劇",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/gladiator.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/gladiator.cube"
+    },
+    {
+      "id": "stranger_things",
+      "name": "怪奇物語",
+      "name_en": "Stranger Things",
+      "category": "tv",
+      "category_name": "劇集",
+      "tags": [
+        "懷舊",
+        "溫暖",
+        "夜景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/stranger_things.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/stranger_things.cube"
+    },
+    {
+      "id": "got_north",
+      "name": "權力遊戲：北境",
+      "name_en": "Game of Thrones - North",
+      "category": "tv",
+      "category_name": "劇集",
+      "tags": [
+        "冷調",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/got_north.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/got_north.cube"
+    },
+    {
+      "id": "got_south",
+      "name": "權力遊戲：君臨",
+      "name_en": "Game of Thrones - King's Landing",
+      "category": "tv",
+      "category_name": "劇集",
+      "tags": [
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/got_south.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/got_south.cube"
+    },
+    {
+      "id": "chernobyl",
+      "name": "核爆家園",
+      "name_en": "Chernobyl",
+      "category": "tv",
+      "category_name": "劇集",
+      "tags": [
+        "低飽和",
+        "冷調",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/chernobyl.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/chernobyl.cube"
+    },
+    {
+      "id": "euphoria",
+      "name": "高校十八禁",
+      "name_en": "Euphoria",
+      "category": "tv",
+      "category_name": "劇集",
+      "tags": [
+        "夜景",
+        "鮮豔",
+        "實驗"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/euphoria.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/euphoria.cube"
+    },
+    {
+      "id": "squid_game",
+      "name": "魷魚遊戲",
+      "name_en": "Squid Game",
+      "category": "tv",
+      "category_name": "劇集",
+      "tags": [
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/squid_game.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/squid_game.cube"
+    },
+    {
+      "id": "peaky",
+      "name": "浴血黑幫",
+      "name_en": "Peaky Blinders",
+      "category": "tv",
+      "category_name": "劇集",
+      "tags": [
+        "戲劇",
+        "低飽和",
+        "懷舊"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/peaky.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/peaky.cube"
+    },
+    {
+      "id": "mr_robot",
+      "name": "駭客軍團",
+      "name_en": "Mr. Robot",
+      "category": "tv",
+      "category_name": "劇集",
+      "tags": [
+        "冷調",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/mr_robot.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/mr_robot.cube"
+    },
+    {
+      "id": "true_detective",
+      "name": "無間警探",
+      "name_en": "True Detective S1",
+      "category": "tv",
+      "category_name": "劇集",
+      "tags": [
+        "溫暖",
+        "風景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/true_detective.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/true_detective.cube"
+    },
+    {
+      "id": "wednesday",
+      "name": "星期三",
+      "name_en": "Wednesday",
+      "category": "tv",
+      "category_name": "劇集",
+      "tags": [
+        "冷調",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/wednesday.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/wednesday.cube"
+    },
+    {
+      "id": "hero_red",
+      "name": "英雄・紅",
+      "name_en": "Hero - Red",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "鮮豔",
+        "戲劇",
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/hero_red.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/hero_red.cube"
+    },
+    {
+      "id": "hero_blue",
+      "name": "英雄・藍",
+      "name_en": "Hero - Blue",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "冷調",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/hero_blue.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/hero_blue.cube"
+    },
+    {
+      "id": "lantern",
+      "name": "大紅燈籠",
+      "name_en": "Raise the Red Lantern",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "溫暖",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/lantern.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/lantern.cube"
+    },
+    {
+      "id": "love_letter",
+      "name": "情書・雪",
+      "name_en": "Love Letter",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "冷調",
+        "柔和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/love_letter.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/love_letter.cube"
+    },
+    {
+      "id": "koreeda",
+      "name": "是枝裕和日常",
+      "name_en": "Kore-eda Natural",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "柔和",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/koreeda.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/koreeda.cube"
+    },
+    {
+      "id": "hou",
+      "name": "侯孝賢光影",
+      "name_en": "Hou Hsiao-hsien",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "溫暖",
+        "懷舊"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/hou.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/hou.cube"
+    },
+    {
+      "id": "jia",
+      "name": "賈樟柯小城",
+      "name_en": "Jia Zhangke",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "冷調",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/jia.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/jia.cube"
+    },
+    {
+      "id": "oldboy",
+      "name": "原罪犯",
+      "name_en": "Oldboy",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "戲劇",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/oldboy.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/oldboy.cube"
+    },
+    {
+      "id": "handmaiden",
+      "name": "下女的誘惑",
+      "name_en": "The Handmaiden",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "柔和",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/handmaiden.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/handmaiden.cube"
+    },
+    {
+      "id": "parasite",
+      "name": "寄生上流",
+      "name_en": "Parasite",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "冷調"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/parasite.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/parasite.cube"
+    },
+    {
+      "id": "hk90s",
+      "name": "90 年代港片",
+      "name_en": "90s Hong Kong Cinema",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "懷舊",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/hk90s.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/hk90s.cube"
+    },
+    {
+      "id": "fallen_angels",
+      "name": "墮落天使",
+      "name_en": "Fallen Angels",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "夜景",
+        "戲劇",
+        "實驗"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/fallen_angels.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/fallen_angels.cube"
+    },
+    {
+      "id": "grandmaster",
+      "name": "一代宗師",
+      "name_en": "The Grandmaster",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "戲劇",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/grandmaster.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/grandmaster.cube"
+    },
+    {
+      "id": "tw_youth",
+      "name": "台灣青春片",
+      "name_en": "Taiwanese Youth Film",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "柔和",
+        "懷舊"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/tw_youth.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/tw_youth.cube"
+    },
+    {
+      "id": "kdrama",
+      "name": "韓劇柔光",
+      "name_en": "K-Drama Soft",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "柔和",
+        "人像"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/kdrama.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/kdrama.cube"
+    },
+    {
+      "id": "shinkai",
+      "name": "新海誠天空",
+      "name_en": "Makoto Shinkai",
+      "category": "anime",
+      "category_name": "動畫",
+      "tags": [
+        "鮮豔",
+        "風景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/shinkai.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/shinkai.cube"
+    },
+    {
+      "id": "ghibli",
+      "name": "吉卜力田園",
+      "name_en": "Studio Ghibli",
+      "category": "anime",
+      "category_name": "動畫",
+      "tags": [
+        "溫暖",
+        "柔和",
+        "風景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ghibli.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ghibli.cube"
+    },
+    {
+      "id": "hosoda",
+      "name": "細田守夏日",
+      "name_en": "Mamoru Hosoda Summer",
+      "category": "anime",
+      "category_name": "動畫",
+      "tags": [
+        "鮮豔",
+        "風景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/hosoda.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/hosoda.cube"
+    },
+    {
+      "id": "cel80s",
+      "name": "80 年代賽璐珞",
+      "name_en": "80s Cel Anime",
+      "category": "anime",
+      "category_name": "動畫",
+      "tags": [
+        "懷舊",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/cel80s.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/cel80s.cube"
+    },
+    {
+      "id": "push2",
+      "name": "增感 +2",
+      "name_en": "Push +2 Stops",
+      "category": "proc",
+      "category_name": "特殊沖印工藝",
+      "tags": [
+        "戲劇",
+        "夜景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/push2.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/push2.cube"
+    },
+    {
+      "id": "pull1",
+      "name": "減感 -1",
+      "name_en": "Pull -1 Stop",
+      "category": "proc",
+      "category_name": "特殊沖印工藝",
+      "tags": [
+        "柔和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/pull1.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/pull1.cube"
+    },
+    {
+      "id": "redscale",
+      "name": "紅標反轉",
+      "name_en": "Redscale",
+      "category": "proc",
+      "category_name": "特殊沖印工藝",
+      "tags": [
+        "實驗",
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/redscale.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/redscale.cube"
+    },
+    {
+      "id": "expired",
+      "name": "過期底片",
+      "name_en": "Expired Film",
+      "category": "proc",
+      "category_name": "特殊沖印工藝",
+      "tags": [
+        "懷舊",
+        "實驗"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/expired.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/expired.cube"
+    },
+    {
+      "id": "enr",
+      "name": "銀殘留（ENR／CCE）",
+      "name_en": "Silver Retention",
+      "category": "proc",
+      "category_name": "特殊沖印工藝",
+      "tags": [
+        "戲劇",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/enr.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/enr.cube"
+    },
+    {
+      "id": "autochrome",
+      "name": "Autochrome 天然彩色",
+      "name_en": "Autochrome Lumière",
+      "category": "proc",
+      "category_name": "特殊沖印工藝",
+      "tags": [
+        "懷舊",
+        "柔和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/autochrome.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/autochrome.cube"
+    },
+    {
+      "id": "handtint",
+      "name": "手工上色老照片",
+      "name_en": "Hand-Tinted Photo",
+      "category": "proc",
+      "category_name": "特殊沖印工藝",
+      "tags": [
+        "懷舊",
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/handtint.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/handtint.cube"
+    },
+    {
+      "id": "y1950s",
+      "name": "50 年代美式",
+      "name_en": "1950s Americana",
+      "category": "era",
+      "category_name": "年代復古",
+      "tags": [
+        "懷舊",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/y1950s.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/y1950s.cube"
+    },
+    {
+      "id": "y1960s",
+      "name": "60 年代",
+      "name_en": "1960s",
+      "category": "era",
+      "category_name": "年代復古",
+      "tags": [
+        "懷舊",
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/y1960s.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/y1960s.cube"
+    },
+    {
+      "id": "miami80s",
+      "name": "邁阿密 80 年代",
+      "name_en": "Miami 80s",
+      "category": "era",
+      "category_name": "年代復古",
+      "tags": [
+        "鮮豔",
+        "懷舊"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/miami80s.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/miami80s.cube"
+    },
+    {
+      "id": "showa",
+      "name": "昭和復古",
+      "name_en": "Showa Retro",
+      "category": "era",
+      "category_name": "年代復古",
+      "tags": [
+        "懷舊",
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/showa.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/showa.cube"
+    },
+    {
+      "id": "pointshoot90s",
+      "name": "90 年代傻瓜相機",
+      "name_en": "90s Point & Shoot",
+      "category": "era",
+      "category_name": "年代復古",
+      "tags": [
+        "懷舊",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/pointshoot90s.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/pointshoot90s.cube"
+    },
+    {
+      "id": "dv2000s",
+      "name": "2000 年代 DV",
+      "name_en": "2000s Camcorder",
+      "category": "era",
+      "category_name": "年代復古",
+      "tags": [
+        "懷舊",
+        "冷調"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/dv2000s.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/dv2000s.cube"
+    },
+    {
+      "id": "action",
+      "name": "動作片",
+      "name_en": "Action",
+      "category": "genre",
+      "category_name": "類型片",
+      "tags": [
+        "戲劇",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/action.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/action.cube"
+    },
+    {
+      "id": "comedy",
+      "name": "喜劇",
+      "name_en": "Comedy",
+      "category": "genre",
+      "category_name": "類型片",
+      "tags": [
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/comedy.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/comedy.cube"
+    },
+    {
+      "id": "documentary",
+      "name": "紀錄片",
+      "name_en": "Documentary",
+      "category": "genre",
+      "category_name": "類型片",
+      "tags": [
+        "柔和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/documentary.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/documentary.cube"
+    },
+    {
+      "id": "postapoc",
+      "name": "末日廢土",
+      "name_en": "Post-Apocalyptic",
+      "category": "genre",
+      "category_name": "類型片",
+      "tags": [
+        "低飽和",
+        "溫暖",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/postapoc.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/postapoc.cube"
+    },
+    {
+      "id": "fantasy",
+      "name": "奇幻",
+      "name_en": "Fantasy",
+      "category": "genre",
+      "category_name": "類型片",
+      "tags": [
+        "戲劇",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/fantasy.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/fantasy.cube"
+    },
+    {
+      "id": "fairy",
+      "name": "童話",
+      "name_en": "Fairy Tale",
+      "category": "genre",
+      "category_name": "類型片",
+      "tags": [
+        "柔和",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/fairy.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/fairy.cube"
+    },
+    {
+      "id": "mv_neon",
+      "name": "MV 霓虹",
+      "name_en": "Music Video Neon",
+      "category": "genre",
+      "category_name": "類型片",
+      "tags": [
+        "鮮豔",
+        "夜景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/mv_neon.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/mv_neon.cube"
+    },
+    {
+      "id": "fashion",
+      "name": "時尚冷調",
+      "name_en": "Fashion Cool",
+      "category": "genre",
+      "category_name": "類型片",
+      "tags": [
+        "冷調",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/fashion.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/fashion.cube"
+    },
+    {
+      "id": "sport",
+      "name": "運動",
+      "name_en": "Sports",
+      "category": "genre",
+      "category_name": "類型片",
+      "tags": [
+        "戲劇",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/sport.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/sport.cube"
+    },
+    {
+      "id": "wuxia",
+      "name": "武俠水墨",
+      "name_en": "Wuxia Ink",
+      "category": "genre",
+      "category_name": "類型片",
+      "tags": [
+        "低飽和",
+        "冷調",
+        "柔和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/wuxia.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/wuxia.cube"
+    },
+    {
+      "id": "bluehour",
+      "name": "藍調時刻",
+      "name_en": "Blue Hour",
+      "category": "season",
+      "category_name": "季節／天氣",
+      "tags": [
+        "冷調",
+        "夜景",
+        "風景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/bluehour.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/bluehour.cube"
+    },
+    {
+      "id": "noon",
+      "name": "正午烈日",
+      "name_en": "Harsh Noon",
+      "category": "season",
+      "category_name": "季節／天氣",
+      "tags": [
+        "鮮豔",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/noon.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/noon.cube"
+    },
+    {
+      "id": "overcast",
+      "name": "陰天",
+      "name_en": "Overcast",
+      "category": "season",
+      "category_name": "季節／天氣",
+      "tags": [
+        "柔和",
+        "冷調",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/overcast.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/overcast.cube"
+    },
+    {
+      "id": "rainy",
+      "name": "雨夜",
+      "name_en": "Rainy Night",
+      "category": "season",
+      "category_name": "季節／天氣",
+      "tags": [
+        "夜景",
+        "冷調",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/rainy.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/rainy.cube"
+    },
+    {
+      "id": "snow",
+      "name": "雪景",
+      "name_en": "Snow",
+      "category": "season",
+      "category_name": "季節／天氣",
+      "tags": [
+        "冷調",
+        "風景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/snow.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/snow.cube"
+    },
+    {
+      "id": "autumn",
+      "name": "秋色",
+      "name_en": "Autumn",
+      "category": "season",
+      "category_name": "季節／天氣",
+      "tags": [
+        "溫暖",
+        "風景",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/autumn.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/autumn.cube"
+    },
+    {
+      "id": "sakura",
+      "name": "春日櫻花",
+      "name_en": "Spring Sakura",
+      "category": "season",
+      "category_name": "季節／天氣",
+      "tags": [
+        "柔和",
+        "人像"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/sakura.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/sakura.cube"
+    },
+    {
+      "id": "summer",
+      "name": "夏日清涼",
+      "name_en": "Summer Fresh",
+      "category": "season",
+      "category_name": "季節／天氣",
+      "tags": [
+        "冷調",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/summer.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/summer.cube"
+    },
+    {
+      "id": "fog",
+      "name": "霧晨",
+      "name_en": "Foggy Morning",
+      "category": "season",
+      "category_name": "季節／天氣",
+      "tags": [
+        "柔和",
+        "冷調",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/fog.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/fog.cube"
+    },
+    {
+      "id": "morandi",
+      "name": "莫蘭迪色",
+      "name_en": "Morandi",
+      "category": "social",
+      "category_name": "社群流行色",
+      "tags": [
+        "低飽和",
+        "柔和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/morandi.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/morandi.cube"
+    },
+    {
+      "id": "dopamine",
+      "name": "多巴胺",
+      "name_en": "Dopamine",
+      "category": "social",
+      "category_name": "社群流行色",
+      "tags": [
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/dopamine.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/dopamine.cube"
+    },
+    {
+      "id": "maillard",
+      "name": "美拉德",
+      "name_en": "Maillard",
+      "category": "social",
+      "category_name": "社群流行色",
+      "tags": [
+        "溫暖",
+        "懷舊"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/maillard.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/maillard.cube"
+    },
+    {
+      "id": "forest",
+      "name": "森系",
+      "name_en": "Forest Style",
+      "category": "social",
+      "category_name": "社群流行色",
+      "tags": [
+        "柔和",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/forest.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/forest.cube"
+    },
+    {
+      "id": "hkstyle",
+      "name": "港風",
+      "name_en": "HK Retro",
+      "category": "social",
+      "category_name": "社群流行色",
+      "tags": [
+        "懷舊",
+        "溫暖",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/hkstyle.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/hkstyle.cube"
+    },
+    {
+      "id": "cream",
+      "name": "奶油風",
+      "name_en": "Creamy",
+      "category": "social",
+      "category_name": "社群流行色",
+      "tags": [
+        "柔和",
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/cream.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/cream.cube"
+    },
+    {
+      "id": "coldwhite",
+      "name": "冷白皮",
+      "name_en": "Cool Fair Skin",
+      "category": "social",
+      "category_name": "社群流行色",
+      "tags": [
+        "冷調",
+        "人像"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/coldwhite.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/coldwhite.cube"
+    },
+    {
+      "id": "filmish",
+      "name": "膠片感",
+      "name_en": "Film-ish",
+      "category": "social",
+      "category_name": "社群流行色",
+      "tags": [
+        "懷舊",
+        "柔和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/filmish.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/filmish.cube"
+    },
+    {
+      "id": "darkacademia",
+      "name": "暗黑學院",
+      "name_en": "Dark Academia",
+      "category": "social",
+      "category_name": "社群流行色",
+      "tags": [
+        "懷舊",
+        "戲劇",
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/darkacademia.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/darkacademia.cube"
+    },
+    {
+      "id": "clean",
+      "name": "清透感",
+      "name_en": "Clean & Clear",
+      "category": "social",
+      "category_name": "社群流行色",
+      "tags": [
+        "柔和",
+        "人像"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/clean.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/clean.cube"
+    },
+    {
+      "id": "double_x",
+      "name": "Kodak Double-X 5222",
+      "name_en": "Kodak Eastman Double-X 5222",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "戲劇",
+        "懷舊"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/double_x.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/double_x.cube"
+    },
+    {
+      "id": "kodak2302",
+      "name": "Kodak 2302 黑白印片",
+      "name_en": "Kodak 2302 B&W Print",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "戲劇"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/kodak2302.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/kodak2302.cube"
+    },
+    {
+      "id": "ortho",
+      "name": "正色片",
+      "name_en": "Orthochromatic",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "懷舊",
+        "實驗"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ortho.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ortho.cube"
+    },
+    {
+      "id": "delta3200",
+      "name": "Ilford Delta 3200",
+      "name_en": "Ilford Delta 3200",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "戲劇",
+        "夜景"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/delta3200.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/delta3200.cube"
+    },
+    {
+      "id": "fp4",
+      "name": "Ilford FP4 Plus",
+      "name_en": "Ilford FP4 Plus 125",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "柔和",
+        "風景"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/fp4.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/fp4.cube"
+    },
+    {
+      "id": "panf",
+      "name": "Ilford Pan F Plus 50",
+      "name_en": "Ilford Pan F Plus 50",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "戲劇",
+        "人像"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/panf.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/panf.cube"
+    },
+    {
+      "id": "tmax100",
+      "name": "Kodak T-Max 100",
+      "name_en": "Kodak T-Max 100",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "風景"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/tmax100.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/tmax100.cube"
+    },
+    {
+      "id": "ir_bw",
+      "name": "紅外線黑白",
+      "name_en": "Infrared B&W",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "實驗",
+        "風景"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ir_bw.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ir_bw.cube"
+    },
+    {
+      "id": "green_filter",
+      "name": "綠濾鏡黑白",
+      "name_en": "B&W Green Filter",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "風景",
+        "人像"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/green_filter.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/green_filter.cube"
+    },
+    {
+      "id": "highkey",
+      "name": "高調黑白",
+      "name_en": "High-Key B&W",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "柔和",
+        "人像"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/highkey.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/highkey.cube"
+    },
+    {
+      "id": "lowkey",
+      "name": "低調黑白",
+      "name_en": "Low-Key B&W",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "戲劇",
+        "人像"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/lowkey.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/lowkey.cube"
+    },
+    {
+      "id": "selenium",
+      "name": "硒調",
+      "name_en": "Selenium Toning",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "冷調",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/selenium.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/selenium.cube"
+    },
+    {
+      "id": "splittone",
+      "name": "黑白分離色調",
+      "name_en": "B&W Split Tone",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "冷調",
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/splittone.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/splittone.cube"
+    },
+    {
+      "id": "lith",
+      "name": "Lith 沖印",
+      "name_en": "Lith Print",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "實驗",
+        "懷舊"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/lith.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/lith.cube"
+    },
+    {
+      "id": "wetplate",
+      "name": "濕版火棉膠",
+      "name_en": "Wet Plate Collodion",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "懷舊",
+        "實驗"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/wetplate.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/wetplate.cube"
+    },
+    {
+      "id": "platinum",
+      "name": "鉑金印相",
+      "name_en": "Platinum Print",
+      "category": "bw",
+      "category_name": "黑白",
+      "tags": [
+        "柔和",
+        "懷舊",
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/platinum.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/platinum.cube"
+    }
+  ]
+}

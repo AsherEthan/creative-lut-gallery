@@ -1,0 +1,56 @@
+{
+  "id": "wes",
+  "name": "魏斯安德森粉彩",
+  "name_en": "Wes Anderson Pastel",
+  "category": "movie",
+  "category_name": "經典電影",
+  "tags": [
+    "柔和",
+    "溫暖",
+    "鮮豔"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/wes.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/wes.cube",
+  "description": "甜點般的粉彩配色：粉紅、鵝黃、薄荷綠，童趣又講究。",
+  "reference": "《布達佩斯大飯店》《月昇冒險王國》",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": 0.15,
+    "tint": 0.1,
+    "sat": 1.05,
+    "con": 0.9,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0.03,
+      0.01,
+      0
+    ],
+    "fade": 0.05,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

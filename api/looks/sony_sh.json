@@ -1,0 +1,55 @@
+{
+  "id": "sony_sh",
+  "name": "Sony SH",
+  "name_en": "Sony Creative Look SH",
+  "category": "cam",
+  "category_name": "相機原廠風格",
+  "tags": [
+    "柔和",
+    "人像"
+  ],
+  "source_type": "official",
+  "source_type_name": "原廠／相機內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/sony_sh.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/sony_sh.cube",
+  "description": "Creative Look「SH」：明亮、柔和的高調畫面，通透感強。",
+  "reference": "人像、生活風格",
+  "where_to_find": "Sony 相機內建 Creative Look（α7 IV、α7C II、ZV-E1 等較新機身）",
+  "params": {
+    "exp": 0.25,
+    "temp": 0,
+    "tint": 0,
+    "sat": 0.95,
+    "con": 0.85,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.02,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

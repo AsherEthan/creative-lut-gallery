@@ -1,0 +1,59 @@
+{
+  "id": "splittone",
+  "name": "黑白分離色調",
+  "name_en": "B&W Split Tone",
+  "category": "bw",
+  "category_name": "黑白",
+  "tags": [
+    "冷調",
+    "溫暖"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/splittone.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/splittone.cube",
+  "description": "暗部偏藍、亮部偏暖，黑白裡藏著冷暖。",
+  "reference": "藝術攝影",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1,
+    "con": 1,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      -0.03,
+      0,
+      0.05
+    ],
+    "hi": [
+      0.04,
+      0.02,
+      -0.02
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": [
+      0.3,
+      0.6,
+      0.1
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "categories": [
+    {
+      "id": "neg",
+      "name": "電影底片",
+      "count": 12
+    },
+    {
+      "id": "pfe",
+      "name": "印片模擬",
+      "count": 7
+    },
+    {
+      "id": "still",
+      "name": "攝影底片",
+      "count": 38
+    },
+    {
+      "id": "cam",
+      "name": "相機原廠風格",
+      "count": 24
+    },
+    {
+      "id": "app",
+      "name": "手機／App 濾鏡",
+      "count": 21
+    },
+    {
+      "id": "movie",
+      "name": "經典電影",
+      "count": 34
+    },
+    {
+      "id": "tv",
+      "name": "劇集",
+      "count": 10
+    },
+    {
+      "id": "asia",
+      "name": "亞洲影視",
+      "count": 15
+    },
+    {
+      "id": "anime",
+      "name": "動畫",
+      "count": 4
+    },
+    {
+      "id": "proc",
+      "name": "特殊沖印工藝",
+      "count": 12
+    },
+    {
+      "id": "era",
+      "name": "年代復古",
+      "count": 11
+    },
+    {
+      "id": "genre",
+      "name": "類型片",
+      "count": 17
+    },
+    {
+      "id": "season",
+      "name": "季節／天氣",
+      "count": 9
+    },
+    {
+      "id": "social",
+      "name": "社群流行色",
+      "count": 16
+    },
+    {
+      "id": "bw",
+      "name": "黑白",
+      "count": 23
+    }
+  ]
+}

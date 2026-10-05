@@ -1,0 +1,59 @@
+{
+  "id": "ir_bw",
+  "name": "紅外線黑白",
+  "name_en": "Infrared B&W",
+  "category": "bw",
+  "category_name": "黑白",
+  "tags": [
+    "實驗",
+    "風景"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ir_bw.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ir_bw.cube",
+  "description": "植物變白、天空變黑，像雪景一樣夢幻。",
+  "reference": "Ilford SFX、Rollei Infrared 等紅外線底片",
+  "where_to_find": "部分底片模擬外掛和 LUT 包有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1,
+    "con": 1.2,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": [
+      0.45,
+      0.9,
+      -0.35
+    ]
+  }
+}

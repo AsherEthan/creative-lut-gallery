@@ -1,0 +1,55 @@
+{
+  "id": "ricoh_negative",
+  "name": "GR 負片",
+  "name_en": "Ricoh GR Negative Film",
+  "category": "cam",
+  "category_name": "相機原廠風格",
+  "tags": [
+    "低飽和",
+    "柔和"
+  ],
+  "source_type": "official",
+  "source_type_name": "原廠／相機內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ricoh_negative.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ricoh_negative.cube",
+  "description": "低飽和、柔和、偏青，後來透過韌體更新加入。",
+  "reference": "街拍、日常",
+  "where_to_find": "理光 GR III／GR IIIx 內建的影像控制",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": -0.1,
+    "sat": 0.8,
+    "con": 0.95,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.03,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

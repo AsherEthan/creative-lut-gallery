@@ -1,0 +1,55 @@
+{
+  "id": "joker",
+  "name": "小丑",
+  "name_en": "Joker (2019)",
+  "category": "movie",
+  "category_name": "經典電影",
+  "tags": [
+    "戲劇",
+    "低飽和"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/joker.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/joker.cube",
+  "description": "病態的黃綠和青色，城市骯髒壓抑。",
+  "reference": "《小丑》（2019）",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": 0.1,
+    "tint": -0.25,
+    "sat": 0.85,
+    "con": 1.12,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      -0.02,
+      0.02,
+      0.02
+    ],
+    "hi": [
+      0.03,
+      0.03,
+      -0.03
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

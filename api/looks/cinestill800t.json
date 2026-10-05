@@ -1,0 +1,56 @@
+{
+  "id": "cinestill800t",
+  "name": "CineStill 800T",
+  "name_en": "CineStill 800T",
+  "category": "still",
+  "category_name": "攝影底片",
+  "tags": [
+    "夜景",
+    "冷調",
+    "戲劇"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/cinestill800t.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/cinestill800t.cube",
+  "description": "把電影底片改成相片用：鎢絲燈平衡，日光下偏藍，高光有紅暈（光暈需另外加）。拍霓虹夜景很出片。",
+  "reference": "城市夜景、霓虹",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": -0.4,
+    "tint": 0,
+    "sat": 1.05,
+    "con": 1.1,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      -0.02,
+      0,
+      0.04
+    ],
+    "hi": [
+      0.05,
+      0,
+      -0.02
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

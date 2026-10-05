@@ -1,0 +1,56 @@
+{
+  "id": "sony_fl",
+  "name": "Sony FL",
+  "name_en": "Sony Creative Look FL",
+  "category": "cam",
+  "category_name": "相機原廠風格",
+  "tags": [
+    "低飽和",
+    "冷調",
+    "戲劇"
+  ],
+  "source_type": "official",
+  "source_type_name": "原廠／相機內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/sony_fl.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/sony_fl.cube",
+  "description": "Creative Look「FL」：低飽和、對比適中、偏青，有電影感。",
+  "reference": "Vlog、短片",
+  "where_to_find": "Sony 相機內建 Creative Look（α7 IV、α7C II、ZV-E1 等較新機身）",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 0.75,
+    "con": 1.05,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      -0.02,
+      0.01,
+      0.025
+    ],
+    "hi": [
+      0.015,
+      0.01,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

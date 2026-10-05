@@ -1,0 +1,54 @@
+{
+  "id": "ig_hudson",
+  "name": "Hudson",
+  "name_en": "Instagram Hudson",
+  "category": "app",
+  "category_name": "手機／App 濾鏡",
+  "tags": [
+    "冷調"
+  ],
+  "source_type": "builtin",
+  "source_type_name": "軟體／App 內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ig_hudson.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ig_hudson.cube",
+  "description": "冷藍、明亮，有冰冷的空氣感。",
+  "reference": "城市、建築",
+  "where_to_find": "Instagram 內建濾鏡（部分已不再提供）",
+  "params": {
+    "exp": 0.1,
+    "temp": -0.3,
+    "tint": 0,
+    "sat": 1,
+    "con": 1.05,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

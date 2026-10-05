@@ -1,0 +1,56 @@
+{
+  "id": "iph_rosegold",
+  "name": "iPhone 玫瑰金",
+  "name_en": "iPhone Photographic Style - Rose Gold",
+  "category": "app",
+  "category_name": "手機／App 濾鏡",
+  "tags": [
+    "溫暖",
+    "柔和",
+    "人像"
+  ],
+  "source_type": "builtin",
+  "source_type_name": "軟體／App 內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/iph_rosegold.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/iph_rosegold.cube",
+  "description": "偏粉紅的暖色，膚色帶玫瑰感。",
+  "reference": "人像",
+  "where_to_find": "iPhone 相機的「攝影風格」（iPhone 16 系列起的新版），拍攝後也能調整",
+  "params": {
+    "exp": 0,
+    "temp": 0.15,
+    "tint": 0.25,
+    "sat": 1,
+    "con": 1,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

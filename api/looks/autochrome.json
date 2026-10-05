@@ -1,0 +1,55 @@
+{
+  "id": "autochrome",
+  "name": "Autochrome 天然彩色",
+  "name_en": "Autochrome Lumière",
+  "category": "proc",
+  "category_name": "特殊沖印工藝",
+  "tags": [
+    "懷舊",
+    "柔和"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/autochrome.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/autochrome.cube",
+  "description": "1907 年第一種商業彩色工藝：粉彩、偏橙綠、帶點朦朧。",
+  "reference": "20 世紀初的彩色照片",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": 0.2,
+    "tint": -0.15,
+    "sat": 0.75,
+    "con": 0.85,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.06,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

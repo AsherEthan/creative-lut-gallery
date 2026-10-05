@@ -1,0 +1,64 @@
+{
+  "id": "lomo_purple",
+  "name": "LomoChrome Purple",
+  "name_en": "LomoChrome Purple",
+  "category": "still",
+  "category_name": "攝影底片",
+  "tags": [
+    "實驗"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/lomo_purple.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/lomo_purple.cube",
+  "description": "實驗底片：綠色變紫、藍色變綠，畫面超現實。",
+  "reference": "創意與實驗攝影",
+  "where_to_find": "部分底片模擬外掛和 LUT 包有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1.1,
+    "con": 1.05,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": [
+      0.6,
+      0.5,
+      -0.05,
+      0.75,
+      0,
+      0.25,
+      0,
+      0.9,
+      0.2
+    ],
+    "bw": null
+  }
+}

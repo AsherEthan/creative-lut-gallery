@@ -1,0 +1,55 @@
+{
+  "id": "traffic",
+  "name": "沙漠黃褐",
+  "name_en": "Traffic / Mexico Yellow",
+  "category": "movie",
+  "category_name": "經典電影",
+  "tags": [
+    "溫暖",
+    "戲劇"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/traffic.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/traffic.cube",
+  "description": "高對比、強烈的黃褐色，給人炎熱、粗糙、危險的感覺。",
+  "reference": "《天人交戰》墨西哥線、《絕命毒師》墨西哥段落",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": 0.7,
+    "tint": 0,
+    "sat": 0.9,
+    "con": 1.15,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0.04,
+      0.03,
+      -0.06
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

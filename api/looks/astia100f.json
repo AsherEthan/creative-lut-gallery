@@ -1,0 +1,55 @@
+{
+  "id": "astia100f",
+  "name": "Fuji Astia 100F",
+  "name_en": "Fujifilm Astia 100F",
+  "category": "still",
+  "category_name": "攝影底片",
+  "tags": [
+    "人像",
+    "柔和"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/astia100f.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/astia100f.cube",
+  "description": "富士的柔和正片（已停產）：飽和度適中，膚色細膩。",
+  "reference": "人像、時裝",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0.05,
+    "tint": 0,
+    "sat": 1,
+    "con": 1.05,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

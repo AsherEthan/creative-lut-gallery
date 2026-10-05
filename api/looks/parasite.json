@@ -1,0 +1,54 @@
+{
+  "id": "parasite",
+  "name": "寄生上流",
+  "name_en": "Parasite",
+  "category": "asia",
+  "category_name": "亞洲影視",
+  "tags": [
+    "冷調"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/parasite.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/parasite.cube",
+  "description": "中性偏冷、乾淨的色彩：豪宅明亮，半地下室陰暗。",
+  "reference": "奉俊昊《寄生上流》",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": -0.1,
+    "tint": 0,
+    "sat": 0.9,
+    "con": 1.08,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

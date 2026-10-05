@@ -1,0 +1,65 @@
+{
+  "id": "maillard",
+  "name": "美拉德",
+  "name_en": "Maillard",
+  "category": "social",
+  "category_name": "社群流行色",
+  "tags": [
+    "溫暖",
+    "懷舊"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/maillard.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/maillard.cube",
+  "description": "焦糖、咖啡、棕色系的暖調，秋冬感很強。",
+  "reference": "秋冬穿搭、咖啡館",
+  "where_to_find": "社群流行的配色，沒有固定標準，各家 App 和調色師的版本都不同",
+  "params": {
+    "exp": 0,
+    "temp": 0.45,
+    "tint": 0,
+    "sat": 0.8,
+    "con": 1,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.03,
+    "roll": 1,
+    "mix": [
+      1.05,
+      0,
+      0,
+      0.05,
+      0.92,
+      0,
+      0,
+      0,
+      0.8
+    ],
+    "bw": null
+  }
+}

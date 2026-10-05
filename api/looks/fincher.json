@@ -1,0 +1,55 @@
+{
+  "id": "fincher",
+  "name": "芬奇黃綠",
+  "name_en": "Fincher Look",
+  "category": "movie",
+  "category_name": "經典電影",
+  "tags": [
+    "低飽和",
+    "戲劇"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/fincher.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/fincher.cube",
+  "description": "低飽和、偏黃綠，暗部厚重，陰鬱又不安。",
+  "reference": "《火線追緝令》《鬥陣俱樂部》《控制》",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": 0.15,
+    "tint": -0.25,
+    "sat": 0.7,
+    "con": 1.15,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      -0.01,
+      0.01,
+      0
+    ],
+    "hi": [
+      0.02,
+      0.03,
+      -0.03
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

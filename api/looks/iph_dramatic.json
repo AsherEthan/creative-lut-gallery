@@ -1,0 +1,54 @@
+{
+  "id": "iph_dramatic",
+  "name": "iPhone 戲劇",
+  "name_en": "iPhone Photographic Style - Dramatic",
+  "category": "app",
+  "category_name": "手機／App 濾鏡",
+  "tags": [
+    "戲劇"
+  ],
+  "source_type": "builtin",
+  "source_type_name": "軟體／App 內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/iph_dramatic.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/iph_dramatic.cube",
+  "description": "對比更強、暗部更深。",
+  "reference": "街拍、建築",
+  "where_to_find": "iPhone 相機的「攝影風格」（iPhone 16 系列起的新版），拍攝後也能調整",
+  "params": {
+    "exp": -0.1,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1,
+    "con": 1.25,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

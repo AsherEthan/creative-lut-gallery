@@ -1,0 +1,54 @@
+{
+  "id": "got_south",
+  "name": "權力遊戲：君臨",
+  "name_en": "Game of Thrones - King's Landing",
+  "category": "tv",
+  "category_name": "劇集",
+  "tags": [
+    "溫暖"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/got_south.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/got_south.cube",
+  "description": "君臨的溫暖金黃，陽光燦爛。",
+  "reference": "《冰與火之歌：權力遊戲》君臨",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": 0.35,
+    "tint": 0,
+    "sat": 1.05,
+    "con": 1.08,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

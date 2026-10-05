@@ -1,0 +1,55 @@
+{
+  "id": "ig_clarendon",
+  "name": "Clarendon",
+  "name_en": "Instagram Clarendon",
+  "category": "app",
+  "category_name": "手機／App 濾鏡",
+  "tags": [
+    "鮮豔",
+    "冷調"
+  ],
+  "source_type": "builtin",
+  "source_type_name": "軟體／App 內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ig_clarendon.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ig_clarendon.cube",
+  "description": "提亮高光、加深陰影並偏藍青，對比和飽和度都更強。",
+  "reference": "Instagram 最常用的濾鏡之一",
+  "where_to_find": "Instagram 內建濾鏡（部分已不再提供）",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1.15,
+    "con": 1.15,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      -0.02,
+      0.01,
+      0.03
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

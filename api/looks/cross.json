@@ -1,0 +1,55 @@
+{
+  "id": "cross",
+  "name": "交叉沖印",
+  "name_en": "Cross Processing",
+  "category": "proc",
+  "category_name": "特殊沖印工藝",
+  "tags": [
+    "實驗",
+    "鮮豔"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/cross.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/cross.cube",
+  "description": "用負片藥水沖正片（或反過來）：高光偏黃綠，暗部偏藍，色彩誇張。",
+  "reference": "90 年代 MV 與時尚攝影",
+  "where_to_find": "多數 LUT 包都有這類 Look",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1.25,
+    "con": 1.2,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0.08
+    ],
+    "gam": [
+      1.1,
+      1.15,
+      0.8
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0.02,
+      0.04,
+      -0.06
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "leica_classic",
+  "name": "Leica Classic",
+  "name_en": "Leica Looks - Classic",
+  "category": "cam",
+  "category_name": "相機原廠風格",
+  "tags": [
+    "懷舊",
+    "溫暖"
+  ],
+  "source_type": "official",
+  "source_type_name": "原廠／相機內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/leica_classic.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/leica_classic.cube",
+  "description": "溫暖、柔和的復古色彩。",
+  "reference": "人文、日常",
+  "where_to_find": "徠卡官方 Leica Looks，可透過 Leica FOTOS App 套用到支援的機型",
+  "params": {
+    "exp": 0,
+    "temp": 0.15,
+    "tint": 0,
+    "sat": 0.88,
+    "con": 0.95,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.03,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

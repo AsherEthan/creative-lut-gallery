@@ -1,0 +1,55 @@
+{
+  "id": "vsco_hb2",
+  "name": "VSCO HB2",
+  "name_en": "VSCO HB2",
+  "category": "app",
+  "category_name": "手機／App 濾鏡",
+  "tags": [
+    "冷調",
+    "低飽和"
+  ],
+  "source_type": "builtin",
+  "source_type_name": "軟體／App 內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/vsco_hb2.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/vsco_hb2.cube",
+  "description": "冷色調、褪色，帶藍灰。",
+  "reference": "城市、時尚",
+  "where_to_find": "VSCO App 預設（多數需要訂閱）",
+  "params": {
+    "exp": 0,
+    "temp": -0.2,
+    "tint": 0,
+    "sat": 0.8,
+    "con": 1,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.05,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

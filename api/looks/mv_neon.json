@@ -1,0 +1,55 @@
+{
+  "id": "mv_neon",
+  "name": "MV 霓虹",
+  "name_en": "Music Video Neon",
+  "category": "genre",
+  "category_name": "類型片",
+  "tags": [
+    "鮮豔",
+    "夜景"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/mv_neon.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/mv_neon.cube",
+  "description": "高飽和的撞色加上深暗部，適合表演和夜店畫面。",
+  "reference": "MV、演唱會",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0.15,
+    "sat": 1.35,
+    "con": 1.2,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0.05
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

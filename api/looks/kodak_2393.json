@@ -1,0 +1,55 @@
+{
+  "id": "kodak_2393",
+  "name": "Kodak 2393 印片",
+  "name_en": "Kodak 2393 Print Film",
+  "category": "pfe",
+  "category_name": "印片模擬",
+  "tags": [
+    "戲劇",
+    "鮮豔"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/kodak_2393.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/kodak_2393.cube",
+  "description": "比 2383 對比更高、色彩更飽和的印片。",
+  "reference": "院線拷貝",
+  "where_to_find": "多數底片模擬外掛和電影 LUT 包都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1.12,
+    "con": 1.22,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      -0.02,
+      0.01,
+      0.02
+    ],
+    "hi": [
+      0.035,
+      0.015,
+      -0.025
+    ],
+    "fade": 0,
+    "roll": 0.96,
+    "mix": null,
+    "bw": null
+  }
+}

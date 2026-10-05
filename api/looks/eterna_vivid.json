@@ -1,0 +1,55 @@
+{
+  "id": "eterna_vivid",
+  "name": "Fuji Eterna Vivid 500",
+  "name_en": "Fujifilm Eterna Vivid 500",
+  "category": "neg",
+  "category_name": "電影底片",
+  "tags": [
+    "鮮豔",
+    "夜景"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/eterna_vivid.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/eterna_vivid.cube",
+  "description": "Eterna 的高飽和版：保留富士的清透感，但顏色更鮮明。",
+  "reference": "2000 年代的廣告和電影",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": -0.15,
+    "sat": 1.1,
+    "con": 1.05,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      -0.01,
+      0.01,
+      0.02
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

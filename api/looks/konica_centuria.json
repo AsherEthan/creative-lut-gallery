@@ -1,0 +1,55 @@
+{
+  "id": "konica_centuria",
+  "name": "Konica Centuria",
+  "name_en": "Konica Centuria",
+  "category": "still",
+  "category_name": "攝影底片",
+  "tags": [
+    "冷調",
+    "懷舊"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/konica_centuria.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/konica_centuria.cube",
+  "description": "柯尼卡底片（已停產）：偏冷青、低飽和，高光帶一點洋紅。",
+  "reference": "日常隨拍",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 0.88,
+    "con": 1,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      -0.01,
+      0.01,
+      0.02
+    ],
+    "hi": [
+      0.02,
+      0,
+      0.01
+    ],
+    "fade": 0.03,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

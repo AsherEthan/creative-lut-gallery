@@ -1,0 +1,55 @@
+{
+  "id": "push2",
+  "name": "增感 +2",
+  "name_en": "Push +2 Stops",
+  "category": "proc",
+  "category_name": "特殊沖印工藝",
+  "tags": [
+    "戲劇",
+    "夜景"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/push2.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/push2.cube",
+  "description": "把底片多沖兩檔：對比變強、暗部塌陷、色彩更衝。（顆粒需要另外加）",
+  "reference": "低光拍攝、紀實",
+  "where_to_find": "多數底片模擬外掛都可以設定增感／減感",
+  "params": {
+    "exp": 0.05,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1.1,
+    "con": 1.3,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

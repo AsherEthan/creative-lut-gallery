@@ -1,0 +1,59 @@
+{
+  "id": "trix",
+  "name": "Kodak Tri-X 400",
+  "name_en": "Kodak Tri-X 400",
+  "category": "bw",
+  "category_name": "黑白",
+  "tags": [
+    "戲劇",
+    "懷舊"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/trix.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/trix.cube",
+  "description": "高反差、顆粒粗獷，是街頭和新聞攝影的代名詞。",
+  "reference": "街拍、新聞攝影",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1,
+    "con": 1.3,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.02,
+    "roll": 1,
+    "mix": null,
+    "bw": [
+      0.3,
+      0.59,
+      0.11
+    ]
+  }
+}

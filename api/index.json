@@ -1,0 +1,69 @@
+{
+  "name": "Creative LUT Gallery API",
+  "version": "1.0.0",
+  "updated": "2026-10-05",
+  "base_url": "https://asherethan.github.io/creative-lut-gallery/api",
+  "repository": "https://github.com/AsherEthan/creative-lut-gallery",
+  "count": 253,
+  "endpoints": {
+    "looks": "https://asherethan.github.io/creative-lut-gallery/api/looks.json",
+    "look": "https://asherethan.github.io/creative-lut-gallery/api/looks/{id}.json",
+    "cube": "https://asherethan.github.io/creative-lut-gallery/api/cube/{id}.cube",
+    "categories": "https://asherethan.github.io/creative-lut-gallery/api/categories.json",
+    "sources": "https://asherethan.github.io/creative-lut-gallery/api/sources.json"
+  },
+  "cube_format": {
+    "size": 17,
+    "intensity": 1.0,
+    "input": "Rec.709 display-referred",
+    "note": "需要 33³／65³ 或其他強度，請用 lib/lutgen.js、lib/lutgen.py 或 tools/build_cubes.py"
+  },
+  "params_defaults": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1,
+    "con": 1,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  },
+  "params_order": [
+    "exp/temp/tint",
+    "mix",
+    "bw",
+    "con/piv",
+    "sat",
+    "lift/gain/gam",
+    "sh/hi",
+    "fade/roll"
+  ],
+  "disclaimer": "所有 LUT 均為依風格特徵參數重建的近似版本，並非原廠或製作方檔案。"
+}

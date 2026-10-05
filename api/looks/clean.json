@@ -1,0 +1,55 @@
+{
+  "id": "clean",
+  "name": "清透感",
+  "name_en": "Clean & Clear",
+  "category": "social",
+  "category_name": "社群流行色",
+  "tags": [
+    "柔和",
+    "人像"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/clean.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/clean.cube",
+  "description": "明亮、低對比、皮膚通透，像淡淡的自然妝。",
+  "reference": "人像、美妝",
+  "where_to_find": "社群流行的配色，沒有固定標準，各家 App 和調色師的版本都不同",
+  "params": {
+    "exp": 0.2,
+    "temp": 0,
+    "tint": 0,
+    "sat": 0.92,
+    "con": 0.88,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.02,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

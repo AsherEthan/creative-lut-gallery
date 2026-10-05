@@ -1,0 +1,55 @@
+{
+  "id": "airy",
+  "name": "明亮清新",
+  "name_en": "Bright & Airy",
+  "category": "social",
+  "category_name": "社群流行色",
+  "tags": [
+    "柔和",
+    "人像"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/airy.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/airy.cube",
+  "description": "提亮、低對比，畫面乾淨。",
+  "reference": "婚禮、生活風格",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0.3,
+    "temp": -0.05,
+    "tint": 0,
+    "sat": 0.85,
+    "con": 0.85,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.03,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

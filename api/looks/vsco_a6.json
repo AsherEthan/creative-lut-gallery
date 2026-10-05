@@ -1,0 +1,55 @@
+{
+  "id": "vsco_a6",
+  "name": "VSCO A6",
+  "name_en": "VSCO A6",
+  "category": "app",
+  "category_name": "手機／App 濾鏡",
+  "tags": [
+    "懷舊",
+    "柔和"
+  ],
+  "source_type": "builtin",
+  "source_type_name": "軟體／App 內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/vsco_a6.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/vsco_a6.cube",
+  "description": "類比底片感：柔和、微暖、黑位泛起。",
+  "reference": "生活風格",
+  "where_to_find": "VSCO App 預設（多數需要訂閱）",
+  "params": {
+    "exp": 0,
+    "temp": 0.08,
+    "tint": 0,
+    "sat": 0.9,
+    "con": 0.92,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.05,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

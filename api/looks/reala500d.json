@@ -1,0 +1,55 @@
+{
+  "id": "reala500d",
+  "name": "Fuji Reala 500D",
+  "name_en": "Fujifilm Reala 500D",
+  "category": "neg",
+  "category_name": "電影底片",
+  "tags": [
+    "人像",
+    "柔和"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/reala500d.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/reala500d.cube",
+  "description": "富士帶「第四感色層」的電影負片：色彩自然，膚色準確。",
+  "reference": "2000 年代的日景與人像",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": -0.08,
+    "sat": 0.95,
+    "con": 1.02,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

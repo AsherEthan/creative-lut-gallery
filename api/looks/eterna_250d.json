@@ -1,0 +1,56 @@
+{
+  "id": "eterna_250d",
+  "name": "Fuji Eterna 250D",
+  "name_en": "Fujifilm Eterna 250D 8563",
+  "category": "neg",
+  "category_name": "電影底片",
+  "tags": [
+    "低飽和",
+    "柔和",
+    "冷調"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/eterna_250d.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/eterna_250d.cube",
+  "description": "富士的電影負片（已停產）。低對比、低飽和，帶一點青綠，是日系電影常見的淡雅基調。",
+  "reference": "2000 年代許多日本電影",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": -0.3,
+    "sat": 0.82,
+    "con": 0.9,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      -0.01,
+      0.01,
+      0.02
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.03,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

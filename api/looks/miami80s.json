@@ -1,0 +1,55 @@
+{
+  "id": "miami80s",
+  "name": "邁阿密 80 年代",
+  "name_en": "Miami 80s",
+  "category": "era",
+  "category_name": "年代復古",
+  "tags": [
+    "鮮豔",
+    "懷舊"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/miami80s.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/miami80s.cube",
+  "description": "粉紅、粉藍、薄荷綠的霓虹粉彩。",
+  "reference": "《邁阿密風雲》",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0.2,
+    "sat": 1.15,
+    "con": 0.95,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0.01,
+      0.04
+    ],
+    "hi": [
+      0.04,
+      0.01,
+      0.02
+    ],
+    "fade": 0.04,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

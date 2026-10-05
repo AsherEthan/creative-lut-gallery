@@ -1,0 +1,66 @@
+{
+  "id": "agfa_vista",
+  "name": "Agfa Vista 200",
+  "name_en": "Agfa Vista 200",
+  "category": "still",
+  "category_name": "攝影底片",
+  "tags": [
+    "溫暖",
+    "懷舊",
+    "鮮豔"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/agfa_vista.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/agfa_vista.cube",
+  "description": "愛克發平價底片（已停產）：紅色鮮豔，整體偏暖。",
+  "reference": "日常隨拍",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0.15,
+    "tint": 0,
+    "sat": 1.15,
+    "con": 1,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": [
+      1.06,
+      -0.03,
+      -0.03,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "bw": null
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "cream",
+  "name": "奶油風",
+  "name_en": "Creamy",
+  "category": "social",
+  "category_name": "社群流行色",
+  "tags": [
+    "柔和",
+    "溫暖"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/cream.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/cream.cube",
+  "description": "暖白、米色、柔和，像奶油一樣溫潤。",
+  "reference": "室內、甜點、人像",
+  "where_to_find": "社群流行的配色，沒有固定標準，各家 App 和調色師的版本都不同",
+  "params": {
+    "exp": 0.15,
+    "temp": 0.2,
+    "tint": 0,
+    "sat": 0.8,
+    "con": 0.85,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.05,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

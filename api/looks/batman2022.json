@@ -1,0 +1,56 @@
+{
+  "id": "batman2022",
+  "name": "蝙蝠俠 2022",
+  "name_en": "The Batman (2022)",
+  "category": "movie",
+  "category_name": "經典電影",
+  "tags": [
+    "戲劇",
+    "夜景",
+    "溫暖"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/batman2022.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/batman2022.cube",
+  "description": "暗沉的琥珀紅和黑，幾乎沒有亮部，陰鬱壓抑。",
+  "reference": "《蝙蝠俠》（2022）",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": -0.35,
+    "temp": 0.3,
+    "tint": 0,
+    "sat": 0.8,
+    "con": 1.2,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0.01,
+      0,
+      -0.01
+    ],
+    "hi": [
+      0.05,
+      0.01,
+      -0.03
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

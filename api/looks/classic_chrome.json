@@ -1,0 +1,55 @@
+{
+  "id": "classic_chrome",
+  "name": "Classic Chrome",
+  "name_en": "Fujifilm Classic Chrome",
+  "category": "cam",
+  "category_name": "相機原廠風格",
+  "tags": [
+    "低飽和",
+    "懷舊"
+  ],
+  "source_type": "official",
+  "source_type_name": "原廠／相機內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/classic_chrome.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/classic_chrome.cube",
+  "description": "沉穩、低飽和，對比偏硬，像紀實雜誌的照片。",
+  "reference": "街拍、紀實",
+  "where_to_find": "富士官方提供 F-Log／F-Log2 底片模擬 LUT（免費），X 系列相機也內建",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 0.78,
+    "con": 1.12,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0.01
+    ],
+    "hi": [
+      0.01,
+      0.01,
+      -0.01
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

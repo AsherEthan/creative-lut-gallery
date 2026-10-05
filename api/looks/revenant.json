@@ -1,0 +1,56 @@
+{
+  "id": "revenant",
+  "name": "神鬼獵人",
+  "name_en": "The Revenant",
+  "category": "movie",
+  "category_name": "經典電影",
+  "tags": [
+    "冷調",
+    "風景",
+    "低飽和"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/revenant.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/revenant.cube",
+  "description": "全片只用自然光：冷藍灰的荒野，寫實而冷冽。",
+  "reference": "《神鬼獵人》",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": -0.3,
+    "tint": 0,
+    "sat": 0.75,
+    "con": 1.05,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

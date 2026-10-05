@@ -1,0 +1,55 @@
+{
+  "id": "lomo400",
+  "name": "Lomography Color 400",
+  "name_en": "Lomography Color Negative 400",
+  "category": "still",
+  "category_name": "攝影底片",
+  "tags": [
+    "鮮豔",
+    "溫暖"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/lomo400.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/lomo400.cube",
+  "description": "飽和、偏暖、對比明顯，濃濃的 Lomo 味。",
+  "reference": "街拍、旅行",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0.2,
+    "tint": 0,
+    "sat": 1.2,
+    "con": 1.12,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

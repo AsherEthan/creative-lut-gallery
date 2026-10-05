@@ -1,0 +1,65 @@
+{
+  "id": "br2049",
+  "name": "銀翼殺手 2049 橙霧",
+  "name_en": "Blade Runner 2049 Orange",
+  "category": "movie",
+  "category_name": "經典電影",
+  "tags": [
+    "溫暖",
+    "戲劇"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/br2049.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/br2049.cube",
+  "description": "濃重的橙色沙塵霧氣，空氣像被染了色，孤寂又壯闊。",
+  "reference": "《銀翼殺手 2049》拉斯維加斯段落",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": 0.5,
+    "tint": 0,
+    "sat": 0.8,
+    "con": 0.95,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.05,
+    "roll": 1,
+    "mix": [
+      1.1,
+      0,
+      0,
+      0.05,
+      0.95,
+      0,
+      0,
+      0,
+      0.6
+    ],
+    "bw": null
+  }
+}

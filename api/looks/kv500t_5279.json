@@ -1,0 +1,55 @@
+{
+  "id": "kv500t_5279",
+  "name": "Kodak Vision 500T",
+  "name_en": "Kodak Vision 500T 5279",
+  "category": "neg",
+  "category_name": "電影底片",
+  "tags": [
+    "夜景",
+    "戲劇"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/kv500t_5279.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/kv500t_5279.cube",
+  "description": "90 年代末到 2000 年代初的高感光主力片：顆粒比 Vision3 粗，暗部更有質感。",
+  "reference": "1990–2000 年代的夜戲",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 0.95,
+    "con": 1.1,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      -0.01,
+      0.01,
+      0.025
+    ],
+    "hi": [
+      0.03,
+      0.015,
+      -0.02
+    ],
+    "fade": 0.02,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

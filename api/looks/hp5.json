@@ -1,0 +1,59 @@
+{
+  "id": "hp5",
+  "name": "Ilford HP5 Plus",
+  "name_en": "Ilford HP5 Plus",
+  "category": "bw",
+  "category_name": "黑白",
+  "tags": [
+    "柔和",
+    "人像"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/hp5.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/hp5.cube",
+  "description": "反差較柔，寬容度大。",
+  "reference": "人像、紀實",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1,
+    "con": 1.1,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.02,
+    "roll": 1,
+    "mix": null,
+    "bw": [
+      0.25,
+      0.65,
+      0.1
+    ]
+  }
+}

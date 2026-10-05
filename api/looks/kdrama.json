@@ -1,0 +1,55 @@
+{
+  "id": "kdrama",
+  "name": "韓劇柔光",
+  "name_en": "K-Drama Soft",
+  "category": "asia",
+  "category_name": "亞洲影視",
+  "tags": [
+    "柔和",
+    "人像"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/kdrama.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/kdrama.cube",
+  "description": "柔光、白皙膚色、粉嫩的明亮調，乾淨又浪漫。",
+  "reference": "韓國愛情劇",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0.15,
+    "temp": 0,
+    "tint": 0.08,
+    "sat": 0.95,
+    "con": 0.9,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.02,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

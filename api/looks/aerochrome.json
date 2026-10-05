@@ -1,0 +1,65 @@
+{
+  "id": "aerochrome",
+  "name": "Kodak Aerochrome",
+  "name_en": "Kodak Aerochrome（紅外線）",
+  "category": "still",
+  "category_name": "攝影底片",
+  "tags": [
+    "實驗",
+    "風景"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/aerochrome.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/aerochrome.cube",
+  "description": "紅外線底片（已停產）：植物變成紅色或粉紅，天空偏紫。",
+  "reference": "Richard Mosse 的剛果系列",
+  "where_to_find": "部分 LUT 包有仿作",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1.2,
+    "con": 1.1,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": [
+      0.2,
+      0.9,
+      0,
+      0.7,
+      0,
+      0.2,
+      0,
+      0.2,
+      0.8
+    ],
+    "bw": null
+  }
+}

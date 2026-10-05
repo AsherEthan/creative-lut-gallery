@@ -1,0 +1,54 @@
+{
+  "id": "reala_ace",
+  "name": "Reala Ace",
+  "name_en": "Fujifilm Reala Ace",
+  "category": "cam",
+  "category_name": "相機原廠風格",
+  "tags": [
+    "人像"
+  ],
+  "source_type": "official",
+  "source_type_name": "原廠／相機內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/reala_ace.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/reala_ace.cube",
+  "description": "色彩忠實自然，對比稍硬，膚色好看。",
+  "reference": "全能日常",
+  "where_to_find": "富士官方提供 F-Log／F-Log2 底片模擬 LUT（免費），X 系列相機也內建",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1.02,
+    "con": 1.1,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

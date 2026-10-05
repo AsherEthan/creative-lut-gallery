@@ -1,0 +1,55 @@
+{
+  "id": "vhs",
+  "name": "90 年代錄影帶",
+  "name_en": "90s VHS",
+  "category": "era",
+  "category_name": "年代復古",
+  "tags": [
+    "懷舊",
+    "低飽和"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/vhs.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/vhs.cube",
+  "description": "低飽和、黑位泛起，偏洋紅和青，像老錄影帶。（模糊和雜訊不是 LUT 能做的，需另外加）",
+  "reference": "懷舊短片",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": -0.1,
+    "tint": 0.15,
+    "sat": 0.85,
+    "con": 0.9,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.06,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

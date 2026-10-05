@@ -1,0 +1,56 @@
+{
+  "id": "chain_500t_2383",
+  "name": "500T → 2383 底片鏈",
+  "name_en": "Kodak 5219 + 2383 Full Chain",
+  "category": "pfe",
+  "category_name": "印片模擬",
+  "tags": [
+    "戲劇",
+    "夜景",
+    "溫暖"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/chain_500t_2383.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/chain_500t_2383.cube",
+  "description": "完整模擬「負片 + 印片」：暗部深青、高光琥珀、對比飽滿，是最典型的院線電影感。",
+  "reference": "好萊塢夜戲",
+  "where_to_find": "Dehancer、Filmbox 等外掛可以分別選擇負片和印片",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1,
+    "con": 1.22,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      -0.02,
+      0.015,
+      0.035
+    ],
+    "hi": [
+      0.045,
+      0.022,
+      -0.03
+    ],
+    "fade": 0,
+    "roll": 0.95,
+    "mix": null,
+    "bw": null
+  }
+}

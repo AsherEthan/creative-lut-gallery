@@ -1,0 +1,55 @@
+{
+  "id": "portra400vc",
+  "name": "Kodak Portra 400VC",
+  "name_en": "Kodak Portra 400VC",
+  "category": "still",
+  "category_name": "攝影底片",
+  "tags": [
+    "人像",
+    "鮮豔"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/portra400vc.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/portra400vc.cube",
+  "description": "Portra 的鮮豔版（已停產）。",
+  "reference": "人像、時裝",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0.15,
+    "tint": 0,
+    "sat": 1.1,
+    "con": 1.05,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

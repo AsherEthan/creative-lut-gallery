@@ -1,0 +1,55 @@
+{
+  "id": "hasselblad",
+  "name": "Hasselblad 自然色彩",
+  "name_en": "Hasselblad Natural Colour Solution",
+  "category": "cam",
+  "category_name": "相機原廠風格",
+  "tags": [
+    "人像",
+    "風景"
+  ],
+  "source_type": "official",
+  "source_type_name": "原廠／相機內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/hasselblad.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/hasselblad.cube",
+  "description": "以色彩準確著稱：膚色自然，色彩過渡細膩。",
+  "reference": "商業、人像、風景",
+  "where_to_find": "哈蘇相機內建 HNCS 色彩方案",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1,
+    "con": 1.03,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "lomo_metropolis",
+  "name": "LomoChrome Metropolis",
+  "name_en": "LomoChrome Metropolis",
+  "category": "still",
+  "category_name": "攝影底片",
+  "tags": [
+    "低飽和",
+    "戲劇",
+    "實驗"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/lomo_metropolis.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/lomo_metropolis.cube",
+  "description": "去飽和、高對比，黃色和綠色變得暗沉，有冷峻的都市感。",
+  "reference": "城市、建築",
+  "where_to_find": "部分底片模擬外掛和 LUT 包有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": -0.1,
+    "sat": 0.5,
+    "con": 1.25,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

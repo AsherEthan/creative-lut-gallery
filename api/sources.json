@@ -1,0 +1,94 @@
+{
+  "sources": [
+    {
+      "name": "DaVinci Resolve 內建 Film Looks",
+      "type": "軟體內建",
+      "description": "內含 Kodak 2383、Fujifilm 3513DI 等印片模擬 LUT，在 LUT 選單的 Film Looks 資料夾裡。"
+    },
+    {
+      "name": "Premiere Pro Lumetri 創意 Look",
+      "type": "軟體內建",
+      "description": "在 Lumetri Color 面板的 Creative → Look 下拉選單，內建多款電影風格 Look。"
+    },
+    {
+      "name": "ARRI Look Library",
+      "type": "原廠免費",
+      "description": "ARRI 為 ALEXA 系列打造的官方創意 Look 庫，可在 ARRI 官網下載 LUT 版本。"
+    },
+    {
+      "name": "RED Creative LUT Kit",
+      "type": "原廠免費",
+      "description": "RED 官方提供的創意 LUT 套件。"
+    },
+    {
+      "name": "Fujifilm 底片模擬 LUT",
+      "type": "原廠免費",
+      "description": "富士為 F-Log／F-Log2 提供 Provia、Eterna、Classic Chrome 等官方 LUT。注意：輸入是 F-Log，不是 Rec.709。"
+    },
+    {
+      "name": "Dehancer",
+      "type": "付費外掛",
+      "description": "底片模擬外掛，收錄大量實測的攝影和電影底片、印片，也有暈光（Halation）和顆粒效果。"
+    },
+    {
+      "name": "FilmConvert Nitrate",
+      "type": "付費外掛",
+      "description": "以實測底片資料為基礎的底片模擬外掛，內建顆粒，支援多款攝影機設定檔。"
+    },
+    {
+      "name": "VisionColor（Osiris、ImpulZ）",
+      "type": "付費 LUT 包",
+      "description": "Osiris 是熱門的電影風格創意包，ImpulZ 是以底片為基礎的 LUT 包。"
+    },
+    {
+      "name": "Lutify.me",
+      "type": "付費 LUT 包",
+      "description": "大型電影風格 LUT 合集。"
+    },
+    {
+      "name": "IWLTBAP",
+      "type": "付費 LUT 包",
+      "description": "風格多元的 LUT 包，攝影和影片都適用。"
+    },
+    {
+      "name": "RocketStock",
+      "type": "免費 LUT 包",
+      "description": "提供免費的創意 LUT 合集，適合入門試用。"
+    },
+    {
+      "name": "Filmbox（Video Village）",
+      "type": "付費外掛",
+      "description": "以實測底片資料打造的高階底片模擬，可以分別設定負片、印片和沖印參數。"
+    },
+    {
+      "name": "Colourlab AI Look Designer",
+      "type": "付費外掛",
+      "description": "以底片和攝影機科學為基礎的 Look 建構工具。"
+    },
+    {
+      "name": "Juan Melara 免費 LUT",
+      "type": "免費 LUT 包",
+      "description": "調色師 Juan Melara 在個人網站分享多款免費 Look 和調色教學。"
+    },
+    {
+      "name": "Ground Control Color",
+      "type": "付費 LUT 包",
+      "description": "電影風格 LUT 包，部分系列有免費試用版。"
+    },
+    {
+      "name": "Sony Creative Look",
+      "type": "相機內建",
+      "description": "Sony 較新的機身內建 10 種 Creative Look，可以再細調對比、飽和、褪色等參數。"
+    },
+    {
+      "name": "Panasonic LUMIX LUT",
+      "type": "原廠免費",
+      "description": "LUMIX 提供官方 LUT 和 LUMIX Lab App，可以把 LUT 載入相機即時拍攝。"
+    },
+    {
+      "name": "Ricoh GR 影像控制",
+      "type": "相機內建",
+      "description": "GR 系列內建正片、負片、復古、漂白等多種效果。"
+    }
+  ]
+}

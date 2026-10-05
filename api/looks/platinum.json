@@ -1,0 +1,60 @@
+{
+  "id": "platinum",
+  "name": "鉑金印相",
+  "name_en": "Platinum Print",
+  "category": "bw",
+  "category_name": "黑白",
+  "tags": [
+    "柔和",
+    "懷舊",
+    "溫暖"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/platinum.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/platinum.cube",
+  "description": "溫暖的灰褐色，灰階極細膩，柔和又高級。",
+  "reference": "藝術印相",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1,
+    "con": 0.95,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0.03,
+      0.015,
+      -0.02
+    ],
+    "hi": [
+      0.02,
+      0.015,
+      -0.01
+    ],
+    "fade": 0.02,
+    "roll": 1,
+    "mix": null,
+    "bw": [
+      0.3,
+      0.6,
+      0.1
+    ]
+  }
+}

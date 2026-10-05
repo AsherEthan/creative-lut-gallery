@@ -1,0 +1,55 @@
+{
+  "id": "kv3_200t",
+  "name": "Kodak Vision3 200T",
+  "name_en": "Kodak Vision3 200T 5213",
+  "category": "neg",
+  "category_name": "電影底片",
+  "tags": [
+    "柔和",
+    "人像"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/kv3_200t.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/kv3_200t.cube",
+  "description": "細顆粒的鎢絲燈片，比 500T 更乾淨，常用於攝影棚。",
+  "reference": "室內與攝影棚",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1,
+    "con": 1.06,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0.005,
+      0.02
+    ],
+    "hi": [
+      0.02,
+      0.01,
+      -0.01
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

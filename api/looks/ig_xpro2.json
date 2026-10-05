@@ -1,0 +1,55 @@
+{
+  "id": "ig_xpro2",
+  "name": "X-Pro II",
+  "name_en": "Instagram X-Pro II",
+  "category": "app",
+  "category_name": "手機／App 濾鏡",
+  "tags": [
+    "鮮豔",
+    "實驗"
+  ],
+  "source_type": "builtin",
+  "source_type_name": "軟體／App 內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ig_xpro2.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ig_xpro2.cube",
+  "description": "模擬交叉沖印：高對比、暖黃、飽和。",
+  "reference": "早期 Instagram 經典",
+  "where_to_find": "Instagram 內建濾鏡（部分已不再提供）",
+  "params": {
+    "exp": 0,
+    "temp": 0.2,
+    "tint": 0,
+    "sat": 1.2,
+    "con": 1.25,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0.02,
+      0.03,
+      -0.04
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

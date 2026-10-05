@@ -1,0 +1,55 @@
+{
+  "id": "kodak_2383",
+  "name": "Kodak 2383 印片",
+  "name_en": "Kodak 2383 Print Film",
+  "category": "pfe",
+  "category_name": "印片模擬",
+  "tags": [
+    "戲劇",
+    "溫暖"
+  ],
+  "source_type": "builtin",
+  "source_type_name": "軟體／App 內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/kodak_2383.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/kodak_2383.cube",
+  "description": "最經典的電影院印片風格：黑位深，高光柔和滾降，暗部偏青，整體偏暖。很多人說的「電影感」就來自它。",
+  "reference": "數十年來的院線拷貝",
+  "where_to_find": "DaVinci Resolve 內建 Film Looks（Rec709 Kodak 2383），多數底片外掛也有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1.05,
+    "con": 1.18,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      -0.02,
+      0.01,
+      0.025
+    ],
+    "hi": [
+      0.04,
+      0.02,
+      -0.03
+    ],
+    "fade": 0,
+    "roll": 0.96,
+    "mix": null,
+    "bw": null
+  }
+}

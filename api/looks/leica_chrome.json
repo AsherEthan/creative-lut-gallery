@@ -1,0 +1,55 @@
+{
+  "id": "leica_chrome",
+  "name": "Leica Chrome",
+  "name_en": "Leica Looks - Chrome",
+  "category": "cam",
+  "category_name": "相機原廠風格",
+  "tags": [
+    "鮮豔",
+    "戲劇"
+  ],
+  "source_type": "official",
+  "source_type_name": "原廠／相機內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/leica_chrome.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/leica_chrome.cube",
+  "description": "飽和、深沉，像經典正片。",
+  "reference": "街拍、旅行",
+  "where_to_find": "徠卡官方 Leica Looks，可透過 Leica FOTOS App 套用到支援的機型",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1.15,
+    "con": 1.18,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

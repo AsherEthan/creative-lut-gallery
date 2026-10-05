@@ -1,0 +1,55 @@
+{
+  "id": "eterna_sim",
+  "name": "Eterna",
+  "name_en": "Fujifilm Eterna",
+  "category": "cam",
+  "category_name": "相機原廠風格",
+  "tags": [
+    "低飽和",
+    "柔和"
+  ],
+  "source_type": "official",
+  "source_type_name": "原廠／相機內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/eterna_sim.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/eterna_sim.cube",
+  "description": "模擬電影底片：低飽和、低對比，暗部層次豐富，最適合後期再調。",
+  "reference": "影片拍攝",
+  "where_to_find": "富士官方提供 F-Log／F-Log2 底片模擬 LUT（免費），X 系列相機也內建",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": -0.1,
+    "sat": 0.75,
+    "con": 0.85,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.03,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

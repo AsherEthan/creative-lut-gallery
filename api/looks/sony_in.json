@@ -1,0 +1,56 @@
+{
+  "id": "sony_in",
+  "name": "Sony IN",
+  "name_en": "Sony Creative Look IN",
+  "category": "cam",
+  "category_name": "相機原廠風格",
+  "tags": [
+    "柔和",
+    "懷舊",
+    "低飽和"
+  ],
+  "source_type": "official",
+  "source_type_name": "原廠／相機內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/sony_in.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/sony_in.cube",
+  "description": "Creative Look「IN」：低對比、低飽和、黑位泛起，像拍立得。",
+  "reference": "生活紀錄",
+  "where_to_find": "Sony 相機內建 Creative Look（α7 IV、α7C II、ZV-E1 等較新機身）",
+  "params": {
+    "exp": 0,
+    "temp": 0.05,
+    "tint": 0,
+    "sat": 0.75,
+    "con": 0.85,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.06,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

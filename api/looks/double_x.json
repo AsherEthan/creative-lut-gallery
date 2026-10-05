@@ -1,0 +1,59 @@
+{
+  "id": "double_x",
+  "name": "Kodak Double-X 5222",
+  "name_en": "Kodak Eastman Double-X 5222",
+  "category": "bw",
+  "category_name": "黑白",
+  "tags": [
+    "戲劇",
+    "懷舊"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/double_x.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/double_x.cube",
+  "description": "經典黑白電影負片：中間調豐富，顆粒有質感，至今仍在生產。",
+  "reference": "大量黑白電影",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1,
+    "con": 1.18,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": [
+      0.28,
+      0.6,
+      0.12
+    ]
+  }
+}

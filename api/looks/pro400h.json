@@ -1,0 +1,56 @@
+{
+  "id": "pro400h",
+  "name": "Fuji Pro 400H",
+  "name_en": "Fujifilm Pro 400H",
+  "category": "still",
+  "category_name": "攝影底片",
+  "tags": [
+    "柔和",
+    "人像",
+    "冷調"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/pro400h.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/pro400h.cube",
+  "description": "婚禮攝影師的最愛（已停產）：明亮通透，綠色偏薄荷，帶空氣感。",
+  "reference": "婚禮、戶外人像",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0.1,
+    "temp": 0,
+    "tint": -0.25,
+    "sat": 0.88,
+    "con": 0.9,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0.01,
+      0.02
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.04,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

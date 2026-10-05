@@ -1,0 +1,55 @@
+{
+  "id": "filmish",
+  "name": "膠片感",
+  "name_en": "Film-ish",
+  "category": "social",
+  "category_name": "社群流行色",
+  "tags": [
+    "懷舊",
+    "柔和"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/filmish.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/filmish.cube",
+  "description": "黑位泛起、高光柔和、輕微偏暖，最常見的「底片風」預設。",
+  "reference": "日常、旅行",
+  "where_to_find": "社群流行的配色，沒有固定標準，各家 App 和調色師的版本都不同",
+  "params": {
+    "exp": 0,
+    "temp": 0.1,
+    "tint": 0,
+    "sat": 0.9,
+    "con": 1.02,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.05,
+    "roll": 0.95,
+    "mix": null,
+    "bw": null
+  }
+}

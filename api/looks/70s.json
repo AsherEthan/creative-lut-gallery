@@ -1,0 +1,56 @@
+{
+  "id": "70s",
+  "name": "70 年代",
+  "name_en": "1970s Faded",
+  "category": "era",
+  "category_name": "年代復古",
+  "tags": [
+    "懷舊",
+    "溫暖",
+    "柔和"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/70s.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/70s.cube",
+  "description": "暖黃褐色、低對比，黑位泛灰，像褪色的老照片。",
+  "reference": "復古題材、回憶段落",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": 0.4,
+    "tint": 0,
+    "sat": 0.85,
+    "con": 0.9,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0.03,
+      0.02,
+      -0.04
+    ],
+    "fade": 0.07,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

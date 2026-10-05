@@ -1,0 +1,55 @@
+{
+  "id": "ricoh_positive",
+  "name": "GR 正片",
+  "name_en": "Ricoh GR Positive Film",
+  "category": "cam",
+  "category_name": "相機原廠風格",
+  "tags": [
+    "鮮豔",
+    "戲劇"
+  ],
+  "source_type": "official",
+  "source_type_name": "原廠／相機內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ricoh_positive.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ricoh_positive.cube",
+  "description": "GR 的招牌模式：高飽和、高對比、偏暖，色彩像正片。",
+  "reference": "街拍",
+  "where_to_find": "理光 GR III／GR IIIx 內建的影像控制",
+  "params": {
+    "exp": 0,
+    "temp": 0.1,
+    "tint": 0,
+    "sat": 1.2,
+    "con": 1.2,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0.01,
+      0.01,
+      -0.02
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  }
+}

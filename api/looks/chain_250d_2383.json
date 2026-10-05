@@ -1,0 +1,56 @@
+{
+  "id": "chain_250d_2383",
+  "name": "250D → 2383 底片鏈",
+  "name_en": "Kodak 5207 + 2383 Full Chain",
+  "category": "pfe",
+  "category_name": "印片模擬",
+  "tags": [
+    "溫暖",
+    "風景",
+    "戲劇"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/chain_250d_2383.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/chain_250d_2383.cube",
+  "description": "日光負片配 2383 印片：日景色彩濃郁溫暖，天空偏青藍。",
+  "reference": "好萊塢日戲",
+  "where_to_find": "Dehancer、Filmbox 等外掛可以分別選擇負片和印片",
+  "params": {
+    "exp": 0,
+    "temp": 0.1,
+    "tint": 0,
+    "sat": 1.08,
+    "con": 1.2,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      -0.015,
+      0.01,
+      0.025
+    ],
+    "hi": [
+      0.04,
+      0.02,
+      -0.025
+    ],
+    "fade": 0,
+    "roll": 0.96,
+    "mix": null,
+    "bw": null
+  }
+}

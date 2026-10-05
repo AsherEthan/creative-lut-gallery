@@ -1,0 +1,59 @@
+{
+  "id": "highkey",
+  "name": "高調黑白",
+  "name_en": "High-Key B&W",
+  "category": "bw",
+  "category_name": "黑白",
+  "tags": [
+    "柔和",
+    "人像"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/highkey.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/highkey.cube",
+  "description": "整體明亮、灰階少，乾淨又輕盈。",
+  "reference": "人像、時尚",
+  "where_to_find": "任何調色軟體都能做",
+  "params": {
+    "exp": 0.4,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1,
+    "con": 0.9,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": [
+      0.2126,
+      0.7152,
+      0.0722
+    ]
+  }
+}

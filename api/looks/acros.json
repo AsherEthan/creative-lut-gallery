@@ -1,0 +1,59 @@
+{
+  "id": "acros",
+  "name": "Acros 黑白",
+  "name_en": "Fujifilm Acros",
+  "category": "bw",
+  "category_name": "黑白",
+  "tags": [
+    "戲劇",
+    "人像"
+  ],
+  "source_type": "official",
+  "source_type_name": "原廠／相機內建",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/acros.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/acros.cube",
+  "description": "富士 Acros：灰階細膩，暗部層次豐富。",
+  "reference": "人文、街拍",
+  "where_to_find": "富士官方提供 F-Log／F-Log2 底片模擬 LUT（免費），X 系列相機也內建",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1,
+    "con": 1.15,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": [
+      0.3,
+      0.6,
+      0.1
+    ]
+  }
+}
