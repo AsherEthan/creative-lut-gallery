@@ -1,0 +1,77 @@
+{
+  "id": "ashes_time",
+  "name": "東邪西毒",
+  "name_en": "Ashes of Time",
+  "category": "asia",
+  "category_name": "亞洲影視",
+  "tags": [
+    "溫暖",
+    "實驗"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ashes_time.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ashes_time.cube",
+  "description": "灼熱的琥珀色沙漠，光影強烈，像燃燒的記憶。",
+  "reference": "《東邪西毒》",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0.05,
+    "temp": 0.45,
+    "tint": 0,
+    "sat": 1.15,
+    "con": 1.2,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  },
+  "emotions": [
+    "孤獨",
+    "史詩",
+    "荒涼"
+  ],
+  "valence": -0.3,
+  "arousal": 0.3,
+  "quadrant": "負向高能",
+  "color": {
+    "temperature": "暖調",
+    "saturation": "高飽和",
+    "contrast": "高對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "風景",
+    "人像"
+  ],
+  "styles": [
+    "電影感",
+    "實驗"
+  ]
+}

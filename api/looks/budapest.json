@@ -1,0 +1,77 @@
+{
+  "id": "budapest",
+  "name": "布達佩斯大飯店",
+  "name_en": "The Grand Budapest Hotel",
+  "category": "movie",
+  "category_name": "經典電影",
+  "tags": [
+    "鮮豔",
+    "柔和"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/budapest.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/budapest.cube",
+  "description": "粉紅與糖果色，像一盒精緻的甜點。",
+  "reference": "《歡迎來到布達佩斯大飯店》",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": 0.05,
+    "tint": 0.25,
+    "sat": 1.08,
+    "con": 0.95,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0.02,
+      0,
+      0.01
+    ],
+    "fade": 0.02,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  },
+  "emotions": [
+    "歡快",
+    "夢幻",
+    "懷舊"
+  ],
+  "valence": 0.65,
+  "arousal": 0.3,
+  "quadrant": "正向高能",
+  "color": {
+    "temperature": "中性",
+    "saturation": "中飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "室內",
+    "人像"
+  ],
+  "styles": [
+    "電影感",
+    "復古"
+  ]
+}

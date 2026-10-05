@@ -1,5 +1,5 @@
 {
-  "count": 253,
+  "count": 327,
   "looks": [
     {
       "id": "kv3_500t",
@@ -9368,6 +9368,2721 @@
       ],
       "styles": [
         "復古"
+      ]
+    },
+    {
+      "id": "shining",
+      "name": "鬼店",
+      "name_en": "The Shining (1980)",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "戲劇",
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/shining.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/shining.cube",
+      "emotions": [
+        "恐懼",
+        "不安",
+        "神秘"
+      ],
+      "valence": -0.6,
+      "arousal": 0.5,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "高飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "人像"
+      ],
+      "styles": [
+        "電影感",
+        "復古"
+      ]
+    },
+    {
+      "id": "se7en",
+      "name": "火線追緝令",
+      "name_en": "Se7en",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "低飽和",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/se7en.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/se7en.cube",
+      "emotions": [
+        "不安",
+        "憂鬱",
+        "緊張"
+      ],
+      "valence": -0.7,
+      "arousal": 0.3,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "低飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "夜景",
+        "室內",
+        "街拍"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "saw",
+      "name": "奪魂鋸",
+      "name_en": "Saw",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "戲劇",
+        "實驗"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/saw.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/saw.cube",
+      "emotions": [
+        "恐懼",
+        "不安",
+        "緊張"
+      ],
+      "valence": -0.85,
+      "arousal": 0.75,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "中飽和",
+        "contrast": "高對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內"
+      ],
+      "styles": [
+        "電影感",
+        "實驗"
+      ]
+    },
+    {
+      "id": "suspiria77",
+      "name": "陰風陣陣",
+      "name_en": "Suspiria (1977)",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "鮮豔",
+        "實驗"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/suspiria77.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/suspiria77.cube",
+      "emotions": [
+        "恐懼",
+        "夢幻",
+        "不安"
+      ],
+      "valence": -0.5,
+      "arousal": 0.8,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "高飽和",
+        "contrast": "高對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "夜景"
+      ],
+      "styles": [
+        "實驗",
+        "復古"
+      ]
+    },
+    {
+      "id": "hereditary",
+      "name": "宿怨",
+      "name_en": "Hereditary",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "低飽和",
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/hereditary.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/hereditary.cube",
+      "emotions": [
+        "恐懼",
+        "不安",
+        "憂鬱"
+      ],
+      "valence": -0.8,
+      "arousal": 0.4,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "低飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "人像"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "thewitch",
+      "name": "女巫",
+      "name_en": "The Witch",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "低飽和",
+        "冷調"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/thewitch.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/thewitch.cube",
+      "emotions": [
+        "恐懼",
+        "荒涼",
+        "不安"
+      ],
+      "valence": -0.75,
+      "arousal": -0.1,
+      "quadrant": "負向低能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "低飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "風景",
+        "人像"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "exorcist",
+      "name": "大法師",
+      "name_en": "The Exorcist",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "冷調",
+        "懷舊"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/exorcist.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/exorcist.cube",
+      "emotions": [
+        "恐懼",
+        "不安",
+        "懷舊"
+      ],
+      "valence": -0.8,
+      "arousal": 0.5,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "夜景"
+      ],
+      "styles": [
+        "復古",
+        "電影感"
+      ]
+    },
+    {
+      "id": "lambs",
+      "name": "沉默的羔羊",
+      "name_en": "The Silence of the Lambs",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "低飽和",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/lambs.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/lambs.cube",
+      "emotions": [
+        "緊張",
+        "不安",
+        "神秘"
+      ],
+      "valence": -0.6,
+      "arousal": 0.4,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "人像"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "alien",
+      "name": "異形",
+      "name_en": "Alien (1979)",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "冷調",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/alien.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/alien.cube",
+      "emotions": [
+        "恐懼",
+        "緊張",
+        "孤獨"
+      ],
+      "valence": -0.7,
+      "arousal": 0.6,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "低飽和",
+        "contrast": "中對比",
+        "key": "暗調"
+      },
+      "scenes": [
+        "室內",
+        "夜景"
+      ],
+      "styles": [
+        "電影感",
+        "復古"
+      ]
+    },
+    {
+      "id": "ringu",
+      "name": "七夜怪談",
+      "name_en": "Ringu",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "冷調",
+        "低飽和"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ringu.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ringu.cube",
+      "emotions": [
+        "恐懼",
+        "不安",
+        "疏離"
+      ],
+      "valence": -0.8,
+      "arousal": 0.2,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "低飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "風景"
+      ],
+      "styles": [
+        "電影感",
+        "底片感"
+      ]
+    },
+    {
+      "id": "juon",
+      "name": "咒怨",
+      "name_en": "Ju-on",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "冷調",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/juon.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/juon.cube",
+      "emotions": [
+        "恐懼",
+        "不安",
+        "孤獨"
+      ],
+      "valence": -0.85,
+      "arousal": 0.3,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "低飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "busan",
+      "name": "屍速列車",
+      "name_en": "Train to Busan",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "冷調",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/busan.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/busan.cube",
+      "emotions": [
+        "緊張",
+        "恐懼",
+        "憤怒"
+      ],
+      "valence": -0.6,
+      "arousal": 0.85,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "街拍"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "conjuring",
+      "name": "厲陰宅",
+      "name_en": "The Conjuring",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "懷舊",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/conjuring.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/conjuring.cube",
+      "emotions": [
+        "恐懼",
+        "緊張",
+        "懷舊"
+      ],
+      "valence": -0.75,
+      "arousal": 0.6,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "夜景"
+      ],
+      "styles": [
+        "電影感",
+        "復古"
+      ]
+    },
+    {
+      "id": "itfollows",
+      "name": "靈病",
+      "name_en": "It Follows",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "柔和",
+        "冷調"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/itfollows.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/itfollows.cube",
+      "emotions": [
+        "不安",
+        "疏離",
+        "孤獨"
+      ],
+      "valence": -0.55,
+      "arousal": 0.1,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "低飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "街拍",
+        "風景"
+      ],
+      "styles": [
+        "電影感",
+        "底片感"
+      ]
+    },
+    {
+      "id": "getout",
+      "name": "逃出絕命鎮",
+      "name_en": "Get Out",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/getout.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/getout.cube",
+      "emotions": [
+        "不安",
+        "緊張",
+        "神秘"
+      ],
+      "valence": -0.6,
+      "arousal": 0.5,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "人像",
+        "室內"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "lighthouse",
+      "name": "燈塔",
+      "name_en": "The Lighthouse",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "戲劇",
+        "實驗"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/lighthouse.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/lighthouse.cube",
+      "emotions": [
+        "恐懼",
+        "不安",
+        "荒涼"
+      ],
+      "valence": -0.8,
+      "arousal": 0.4,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "黑白",
+        "contrast": "高對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "人像",
+        "風景"
+      ],
+      "styles": [
+        "電影感",
+        "實驗"
+      ]
+    },
+    {
+      "id": "nosferatu24",
+      "name": "諾斯費拉圖",
+      "name_en": "Nosferatu (2024)",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "冷調",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/nosferatu24.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/nosferatu24.cube",
+      "emotions": [
+        "恐懼",
+        "神秘",
+        "荒涼"
+      ],
+      "valence": -0.75,
+      "arousal": 0.2,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "低飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "夜景",
+        "室內"
+      ],
+      "styles": [
+        "電影感",
+        "復古"
+      ]
+    },
+    {
+      "id": "us2019",
+      "name": "我們",
+      "name_en": "Us (2019)",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "戲劇",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/us2019.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/us2019.cube",
+      "emotions": [
+        "恐懼",
+        "緊張",
+        "不安"
+      ],
+      "valence": -0.7,
+      "arousal": 0.7,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "人像",
+        "夜景"
+      ],
+      "styles": [
+        "電影感"
+      ]
+    },
+    {
+      "id": "giallo",
+      "name": "義式鉛黃片",
+      "name_en": "Giallo",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "鮮豔",
+        "實驗"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/giallo.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/giallo.cube",
+      "emotions": [
+        "緊張",
+        "神秘",
+        "恐懼"
+      ],
+      "valence": -0.4,
+      "arousal": 0.7,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "冷暖分離",
+        "saturation": "高飽和",
+        "contrast": "高對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "夜景",
+        "室內"
+      ],
+      "styles": [
+        "復古",
+        "實驗"
+      ]
+    },
+    {
+      "id": "found_footage",
+      "name": "偽紀錄恐怖",
+      "name_en": "Found Footage",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "低飽和",
+        "實驗"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/found_footage.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/found_footage.cube",
+      "emotions": [
+        "恐懼",
+        "不安",
+        "緊張"
+      ],
+      "valence": -0.8,
+      "arousal": 0.6,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "低飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "夜景",
+        "風景",
+        "室內"
+      ],
+      "styles": [
+        "寫實",
+        "實驗"
+      ]
+    },
+    {
+      "id": "zombie",
+      "name": "喪屍末日",
+      "name_en": "Zombie Apocalypse",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "低飽和",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/zombie.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/zombie.cube",
+      "emotions": [
+        "恐懼",
+        "荒涼",
+        "緊張"
+      ],
+      "valence": -0.8,
+      "arousal": 0.6,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "低飽和",
+        "contrast": "高對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "風景",
+        "街拍"
+      ],
+      "styles": [
+        "電影感"
+      ]
+    },
+    {
+      "id": "slasher80s",
+      "name": "80 年代砍殺片",
+      "name_en": "80s Slasher",
+      "category": "horror",
+      "category_name": "恐怖驚悚",
+      "tags": [
+        "夜景",
+        "懷舊"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/slasher80s.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/slasher80s.cube",
+      "emotions": [
+        "恐懼",
+        "緊張",
+        "懷舊"
+      ],
+      "valence": -0.6,
+      "arousal": 0.7,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "暗調"
+      },
+      "scenes": [
+        "夜景"
+      ],
+      "styles": [
+        "復古",
+        "電影感"
+      ]
+    },
+    {
+      "id": "killbill",
+      "name": "追殺比爾",
+      "name_en": "Kill Bill",
+      "category": "crime",
+      "category_name": "犯罪／暴力美學",
+      "tags": [
+        "鮮豔",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/killbill.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/killbill.cube",
+      "emotions": [
+        "憤怒",
+        "熱烈",
+        "興奮"
+      ],
+      "valence": -0.2,
+      "arousal": 0.9,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "高飽和",
+        "contrast": "高對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "人像",
+        "室內"
+      ],
+      "styles": [
+        "電影感",
+        "實驗"
+      ]
+    },
+    {
+      "id": "sincity",
+      "name": "萬惡城市",
+      "name_en": "Sin City",
+      "category": "crime",
+      "category_name": "犯罪／暴力美學",
+      "tags": [
+        "戲劇",
+        "實驗"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/sincity.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/sincity.cube",
+      "emotions": [
+        "憤怒",
+        "緊張",
+        "神秘"
+      ],
+      "valence": -0.6,
+      "arousal": 0.7,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "黑白",
+        "contrast": "高對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "夜景",
+        "人像"
+      ],
+      "styles": [
+        "實驗",
+        "電影感"
+      ]
+    },
+    {
+      "id": "johnwick",
+      "name": "捍衛任務",
+      "name_en": "John Wick",
+      "category": "crime",
+      "category_name": "犯罪／暴力美學",
+      "tags": [
+        "夜景",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/johnwick.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/johnwick.cube",
+      "emotions": [
+        "緊張",
+        "憤怒",
+        "興奮"
+      ],
+      "valence": -0.4,
+      "arousal": 0.9,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "高飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "夜景",
+        "室內"
+      ],
+      "styles": [
+        "電影感"
+      ]
+    },
+    {
+      "id": "pulpfiction",
+      "name": "黑色追緝令",
+      "name_en": "Pulp Fiction",
+      "category": "crime",
+      "category_name": "犯罪／暴力美學",
+      "tags": [
+        "溫暖",
+        "懷舊"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/pulpfiction.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/pulpfiction.cube",
+      "emotions": [
+        "興奮",
+        "熱烈",
+        "懷舊"
+      ],
+      "valence": 0.1,
+      "arousal": 0.6,
+      "quadrant": "正向高能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "高飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "人像",
+        "街拍"
+      ],
+      "styles": [
+        "復古",
+        "電影感"
+      ]
+    },
+    {
+      "id": "reservoir",
+      "name": "霸道橫行",
+      "name_en": "Reservoir Dogs",
+      "category": "crime",
+      "category_name": "犯罪／暴力美學",
+      "tags": [
+        "溫暖",
+        "戲劇"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/reservoir.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/reservoir.cube",
+      "emotions": [
+        "緊張",
+        "憤怒"
+      ],
+      "valence": -0.5,
+      "arousal": 0.75,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "高飽和",
+        "contrast": "高對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "人像"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "taxidriver",
+      "name": "計程車司機",
+      "name_en": "Taxi Driver",
+      "category": "crime",
+      "category_name": "犯罪／暴力美學",
+      "tags": [
+        "夜景",
+        "懷舊"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/taxidriver.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/taxidriver.cube",
+      "emotions": [
+        "孤獨",
+        "疏離",
+        "憤怒"
+      ],
+      "valence": -0.65,
+      "arousal": 0.2,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "夜景",
+        "街拍"
+      ],
+      "styles": [
+        "復古",
+        "底片感"
+      ]
+    },
+    {
+      "id": "nocountry",
+      "name": "險路勿近",
+      "name_en": "No Country for Old Men",
+      "category": "crime",
+      "category_name": "犯罪／暴力美學",
+      "tags": [
+        "低飽和",
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/nocountry.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/nocountry.cube",
+      "emotions": [
+        "緊張",
+        "荒涼",
+        "不安"
+      ],
+      "valence": -0.65,
+      "arousal": 0.3,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "低飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "風景"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "heat",
+      "name": "烈火悍將",
+      "name_en": "Heat",
+      "category": "crime",
+      "category_name": "犯罪／暴力美學",
+      "tags": [
+        "冷調",
+        "夜景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/heat.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/heat.cube",
+      "emotions": [
+        "緊張",
+        "孤獨",
+        "史詩"
+      ],
+      "valence": -0.3,
+      "arousal": 0.6,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "夜景",
+        "街拍"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "collateral",
+      "name": "落日殺神",
+      "name_en": "Collateral",
+      "category": "crime",
+      "category_name": "犯罪／暴力美學",
+      "tags": [
+        "夜景",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/collateral.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/collateral.cube",
+      "emotions": [
+        "孤獨",
+        "緊張",
+        "疏離"
+      ],
+      "valence": -0.4,
+      "arousal": 0.4,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "夜景",
+        "街拍"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "irreversible",
+      "name": "不可逆轉",
+      "name_en": "Irréversible",
+      "category": "crime",
+      "category_name": "犯罪／暴力美學",
+      "tags": [
+        "實驗",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/irreversible.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/irreversible.cube",
+      "emotions": [
+        "恐懼",
+        "憤怒",
+        "不安"
+      ],
+      "valence": -0.9,
+      "arousal": 0.9,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "高飽和",
+        "contrast": "中對比",
+        "key": "暗調"
+      },
+      "scenes": [
+        "夜景",
+        "室內"
+      ],
+      "styles": [
+        "實驗"
+      ]
+    },
+    {
+      "id": "entervoid",
+      "name": "嗑紅了眼",
+      "name_en": "Enter the Void",
+      "category": "crime",
+      "category_name": "犯罪／暴力美學",
+      "tags": [
+        "實驗",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/entervoid.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/entervoid.cube",
+      "emotions": [
+        "夢幻",
+        "不安",
+        "興奮"
+      ],
+      "valence": -0.2,
+      "arousal": 0.8,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "高飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "夜景"
+      ],
+      "styles": [
+        "實驗"
+      ]
+    },
+    {
+      "id": "uncutgems",
+      "name": "原石狂熱",
+      "name_en": "Uncut Gems",
+      "category": "crime",
+      "category_name": "犯罪／暴力美學",
+      "tags": [
+        "戲劇",
+        "溫暖"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/uncutgems.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/uncutgems.cube",
+      "emotions": [
+        "緊張",
+        "不安",
+        "興奮"
+      ],
+      "valence": -0.4,
+      "arousal": 0.85,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "街拍",
+        "人像"
+      ],
+      "styles": [
+        "底片感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "goodfellas",
+      "name": "四海好傢伙",
+      "name_en": "Goodfellas",
+      "category": "crime",
+      "category_name": "犯罪／暴力美學",
+      "tags": [
+        "溫暖",
+        "鮮豔"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/goodfellas.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/goodfellas.cube",
+      "emotions": [
+        "熱烈",
+        "懷舊",
+        "緊張"
+      ],
+      "valence": 0.0,
+      "arousal": 0.6,
+      "quadrant": "正向高能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "高飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "人像"
+      ],
+      "styles": [
+        "電影感",
+        "復古"
+      ]
+    },
+    {
+      "id": "godfather",
+      "name": "教父",
+      "name_en": "The Godfather",
+      "category": "crime",
+      "category_name": "犯罪／暴力美學",
+      "tags": [
+        "溫暖",
+        "戲劇"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/godfather.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/godfather.cube",
+      "emotions": [
+        "神秘",
+        "史詩",
+        "懷舊"
+      ],
+      "valence": -0.2,
+      "arousal": 0.1,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "暗調"
+      },
+      "scenes": [
+        "室內",
+        "人像"
+      ],
+      "styles": [
+        "電影感",
+        "復古"
+      ]
+    },
+    {
+      "id": "zodiac",
+      "name": "索命黃道帶",
+      "name_en": "Zodiac",
+      "category": "crime",
+      "category_name": "犯罪／暴力美學",
+      "tags": [
+        "低飽和",
+        "夜景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/zodiac.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/zodiac.cube",
+      "emotions": [
+        "不安",
+        "緊張",
+        "神秘"
+      ],
+      "valence": -0.6,
+      "arousal": 0.3,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "夜景",
+        "街拍"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "cityofgod",
+      "name": "無法無天",
+      "name_en": "City of God",
+      "category": "crime",
+      "category_name": "犯罪／暴力美學",
+      "tags": [
+        "溫暖",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/cityofgod.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/cityofgod.cube",
+      "emotions": [
+        "熱烈",
+        "緊張",
+        "憤怒"
+      ],
+      "valence": -0.2,
+      "arousal": 0.85,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "高飽和",
+        "contrast": "高對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "街拍",
+        "風景"
+      ],
+      "styles": [
+        "寫實",
+        "電影感"
+      ]
+    },
+    {
+      "id": "br1982",
+      "name": "銀翼殺手（1982）",
+      "name_en": "Blade Runner (1982)",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "夜景",
+        "冷調"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/br1982.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/br1982.cube",
+      "emotions": [
+        "孤獨",
+        "神秘",
+        "疏離"
+      ],
+      "valence": -0.4,
+      "arousal": 0.1,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "暗調"
+      },
+      "scenes": [
+        "夜景",
+        "街拍"
+      ],
+      "styles": [
+        "電影感",
+        "復古"
+      ]
+    },
+    {
+      "id": "darkknight",
+      "name": "黑暗騎士",
+      "name_en": "The Dark Knight",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "冷調",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/darkknight.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/darkknight.cube",
+      "emotions": [
+        "緊張",
+        "史詩",
+        "不安"
+      ],
+      "valence": -0.3,
+      "arousal": 0.7,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "夜景",
+        "街拍"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "interstellar",
+      "name": "星際效應",
+      "name_en": "Interstellar",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "溫暖",
+        "柔和"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/interstellar.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/interstellar.cube",
+      "emotions": [
+        "史詩",
+        "孤獨",
+        "寧靜"
+      ],
+      "valence": 0.0,
+      "arousal": 0.2,
+      "quadrant": "正向高能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "風景"
+      ],
+      "styles": [
+        "電影感",
+        "底片感"
+      ]
+    },
+    {
+      "id": "nomadland",
+      "name": "游牧人生",
+      "name_en": "Nomadland",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "柔和",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/nomadland.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/nomadland.cube",
+      "emotions": [
+        "孤獨",
+        "寧靜",
+        "荒涼"
+      ],
+      "valence": -0.1,
+      "arousal": -0.6,
+      "quadrant": "負向低能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "低飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "風景",
+        "人像"
+      ],
+      "styles": [
+        "寫實",
+        "電影感"
+      ]
+    },
+    {
+      "id": "madmax",
+      "name": "瘋狂麥斯：憤怒道",
+      "name_en": "Mad Max: Fury Road",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "鮮豔",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/madmax.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/madmax.cube",
+      "emotions": [
+        "熱烈",
+        "憤怒",
+        "史詩"
+      ],
+      "valence": -0.05,
+      "arousal": 0.95,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "冷暖分離",
+        "saturation": "高飽和",
+        "contrast": "高對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "風景"
+      ],
+      "styles": [
+        "電影感"
+      ]
+    },
+    {
+      "id": "budapest",
+      "name": "布達佩斯大飯店",
+      "name_en": "The Grand Budapest Hotel",
+      "category": "movie",
+      "category_name": "經典電影",
+      "tags": [
+        "鮮豔",
+        "柔和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/budapest.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/budapest.cube",
+      "emotions": [
+        "歡快",
+        "夢幻",
+        "懷舊"
+      ],
+      "valence": 0.65,
+      "arousal": 0.3,
+      "quadrant": "正向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "人像"
+      ],
+      "styles": [
+        "電影感",
+        "復古"
+      ]
+    },
+    {
+      "id": "breakingbad",
+      "name": "絕命毒師",
+      "name_en": "Breaking Bad",
+      "category": "tv",
+      "category_name": "劇集",
+      "tags": [
+        "溫暖",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/breakingbad.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/breakingbad.cube",
+      "emotions": [
+        "緊張",
+        "荒涼",
+        "不安"
+      ],
+      "valence": -0.4,
+      "arousal": 0.5,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "高飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "風景",
+        "街拍"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "severance",
+      "name": "人生切割術",
+      "name_en": "Severance",
+      "category": "tv",
+      "category_name": "劇集",
+      "tags": [
+        "冷調",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/severance.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/severance.cube",
+      "emotions": [
+        "疏離",
+        "不安",
+        "孤獨"
+      ],
+      "valence": -0.5,
+      "arousal": -0.2,
+      "quadrant": "負向低能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "低飽和",
+        "contrast": "高對比",
+        "key": "亮調"
+      },
+      "scenes": [
+        "室內"
+      ],
+      "styles": [
+        "電影感",
+        "實驗"
+      ]
+    },
+    {
+      "id": "lastofus",
+      "name": "最後生還者",
+      "name_en": "The Last of Us",
+      "category": "tv",
+      "category_name": "劇集",
+      "tags": [
+        "低飽和",
+        "風景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/lastofus.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/lastofus.cube",
+      "emotions": [
+        "荒涼",
+        "憂鬱",
+        "緊張"
+      ],
+      "valence": -0.55,
+      "arousal": 0.2,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "低飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "風景",
+        "街拍"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "mindhunter",
+      "name": "破案神探",
+      "name_en": "Mindhunter",
+      "category": "tv",
+      "category_name": "劇集",
+      "tags": [
+        "低飽和",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/mindhunter.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/mindhunter.cube",
+      "emotions": [
+        "不安",
+        "神秘",
+        "疏離"
+      ],
+      "valence": -0.5,
+      "arousal": 0.0,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "低飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "人像"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "dark_tv",
+      "name": "闇",
+      "name_en": "Dark",
+      "category": "tv",
+      "category_name": "劇集",
+      "tags": [
+        "冷調",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/dark_tv.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/dark_tv.cube",
+      "emotions": [
+        "神秘",
+        "憂鬱",
+        "不安"
+      ],
+      "valence": -0.6,
+      "arousal": -0.1,
+      "quadrant": "負向低能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "低飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "風景",
+        "室內"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "twinpeaks",
+      "name": "雙峰",
+      "name_en": "Twin Peaks",
+      "category": "tv",
+      "category_name": "劇集",
+      "tags": [
+        "溫暖",
+        "懷舊"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/twinpeaks.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/twinpeaks.cube",
+      "emotions": [
+        "神秘",
+        "夢幻",
+        "不安"
+      ],
+      "valence": -0.2,
+      "arousal": 0.0,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "風景"
+      ],
+      "styles": [
+        "復古",
+        "電影感"
+      ]
+    },
+    {
+      "id": "blackmirror",
+      "name": "黑鏡",
+      "name_en": "Black Mirror",
+      "category": "tv",
+      "category_name": "劇集",
+      "tags": [
+        "冷調"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/blackmirror.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/blackmirror.cube",
+      "emotions": [
+        "疏離",
+        "不安",
+        "緊張"
+      ],
+      "valence": -0.5,
+      "arousal": 0.3,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "街拍"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "succession",
+      "name": "繼承之戰",
+      "name_en": "Succession",
+      "category": "tv",
+      "category_name": "劇集",
+      "tags": [
+        "低飽和",
+        "柔和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/succession.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/succession.cube",
+      "emotions": [
+        "疏離",
+        "緊張"
+      ],
+      "valence": -0.3,
+      "arousal": 0.3,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "人像"
+      ],
+      "styles": [
+        "寫實"
+      ]
+    },
+    {
+      "id": "inmood",
+      "name": "花樣年華",
+      "name_en": "In the Mood for Love",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "溫暖",
+        "戲劇"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/inmood.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/inmood.cube",
+      "emotions": [
+        "浪漫",
+        "憂鬱",
+        "懷舊"
+      ],
+      "valence": 0.0,
+      "arousal": -0.3,
+      "quadrant": "正向低能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "高飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "人像",
+        "夜景"
+      ],
+      "styles": [
+        "電影感",
+        "復古"
+      ]
+    },
+    {
+      "id": "chungking",
+      "name": "重慶森林",
+      "name_en": "Chungking Express",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "鮮豔",
+        "夜景"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/chungking.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/chungking.cube",
+      "emotions": [
+        "夢幻",
+        "孤獨",
+        "活力"
+      ],
+      "valence": 0.2,
+      "arousal": 0.5,
+      "quadrant": "正向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "夜景",
+        "街拍"
+      ],
+      "styles": [
+        "電影感",
+        "實驗"
+      ]
+    },
+    {
+      "id": "infernal",
+      "name": "無間道",
+      "name_en": "Infernal Affairs",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "冷調",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/infernal.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/infernal.cube",
+      "emotions": [
+        "緊張",
+        "孤獨",
+        "疏離"
+      ],
+      "valence": -0.5,
+      "arousal": 0.5,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "街拍",
+        "室內",
+        "夜景"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "memories_murder",
+      "name": "殺人回憶",
+      "name_en": "Memories of Murder",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "低飽和",
+        "懷舊"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/memories_murder.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/memories_murder.cube",
+      "emotions": [
+        "荒涼",
+        "不安",
+        "憂鬱"
+      ],
+      "valence": -0.65,
+      "arousal": 0.1,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "低飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "風景",
+        "人像"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "kitano",
+      "name": "北野武藍",
+      "name_en": "Kitano Blue",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "冷調"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/kitano.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/kitano.cube",
+      "emotions": [
+        "孤獨",
+        "寧靜",
+        "疏離"
+      ],
+      "valence": -0.3,
+      "arousal": -0.3,
+      "quadrant": "負向低能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "風景",
+        "人像"
+      ],
+      "styles": [
+        "電影感"
+      ]
+    },
+    {
+      "id": "burning",
+      "name": "燃燒烈愛",
+      "name_en": "Burning",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "柔和",
+        "低飽和"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/burning.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/burning.cube",
+      "emotions": [
+        "神秘",
+        "疏離",
+        "憂鬱"
+      ],
+      "valence": -0.35,
+      "arousal": -0.2,
+      "quadrant": "負向低能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "風景",
+        "人像"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "shoplifters",
+      "name": "小偷家族",
+      "name_en": "Shoplifters",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "溫暖",
+        "柔和"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/shoplifters.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/shoplifters.cube",
+      "emotions": [
+        "溫馨",
+        "憂鬱",
+        "治癒"
+      ],
+      "valence": 0.3,
+      "arousal": -0.5,
+      "quadrant": "正向低能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "室內",
+        "人像"
+      ],
+      "styles": [
+        "寫實",
+        "底片感"
+      ]
+    },
+    {
+      "id": "ashes_time",
+      "name": "東邪西毒",
+      "name_en": "Ashes of Time",
+      "category": "asia",
+      "category_name": "亞洲影視",
+      "tags": [
+        "溫暖",
+        "實驗"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/ashes_time.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/ashes_time.cube",
+      "emotions": [
+        "孤獨",
+        "史詩",
+        "荒涼"
+      ],
+      "valence": -0.3,
+      "arousal": 0.3,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "高飽和",
+        "contrast": "高對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "風景",
+        "人像"
+      ],
+      "styles": [
+        "電影感",
+        "實驗"
+      ]
+    },
+    {
+      "id": "akira",
+      "name": "阿基拉",
+      "name_en": "Akira",
+      "category": "anime",
+      "category_name": "動畫",
+      "tags": [
+        "夜景",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/akira.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/akira.cube",
+      "emotions": [
+        "興奮",
+        "憤怒",
+        "緊張"
+      ],
+      "valence": -0.2,
+      "arousal": 0.9,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "冷暖分離",
+        "saturation": "高飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "夜景",
+        "街拍"
+      ],
+      "styles": [
+        "實驗",
+        "復古"
+      ]
+    },
+    {
+      "id": "gits",
+      "name": "攻殼機動隊",
+      "name_en": "Ghost in the Shell (1995)",
+      "category": "anime",
+      "category_name": "動畫",
+      "tags": [
+        "冷調",
+        "夜景"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/gits.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/gits.cube",
+      "emotions": [
+        "疏離",
+        "神秘",
+        "孤獨"
+      ],
+      "valence": -0.3,
+      "arousal": -0.1,
+      "quadrant": "負向低能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "夜景",
+        "街拍"
+      ],
+      "styles": [
+        "電影感",
+        "實驗"
+      ]
+    },
+    {
+      "id": "perfect_blue",
+      "name": "藍色恐懼",
+      "name_en": "Perfect Blue",
+      "category": "anime",
+      "category_name": "動畫",
+      "tags": [
+        "柔和",
+        "實驗"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/perfect_blue.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/perfect_blue.cube",
+      "emotions": [
+        "不安",
+        "恐懼",
+        "疏離"
+      ],
+      "valence": -0.7,
+      "arousal": 0.4,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "人像",
+        "室內"
+      ],
+      "styles": [
+        "復古",
+        "實驗"
+      ]
+    },
+    {
+      "id": "evangelion",
+      "name": "新世紀福音戰士",
+      "name_en": "Neon Genesis Evangelion",
+      "category": "anime",
+      "category_name": "動畫",
+      "tags": [
+        "鮮豔",
+        "實驗"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/evangelion.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/evangelion.cube",
+      "emotions": [
+        "緊張",
+        "不安",
+        "史詩"
+      ],
+      "valence": -0.4,
+      "arousal": 0.75,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "高飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "街拍",
+        "夜景"
+      ],
+      "styles": [
+        "實驗",
+        "復古"
+      ]
+    },
+    {
+      "id": "spiderverse",
+      "name": "蜘蛛人：新宇宙",
+      "name_en": "Spider-Man: Into the Spider-Verse",
+      "category": "anime",
+      "category_name": "動畫",
+      "tags": [
+        "鮮豔",
+        "實驗"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/spiderverse.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/spiderverse.cube",
+      "emotions": [
+        "興奮",
+        "活力",
+        "熱烈"
+      ],
+      "valence": 0.6,
+      "arousal": 0.9,
+      "quadrant": "正向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "高飽和",
+        "contrast": "高對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "街拍",
+        "夜景"
+      ],
+      "styles": [
+        "實驗"
+      ]
+    },
+    {
+      "id": "arcane",
+      "name": "奧術",
+      "name_en": "Arcane",
+      "category": "anime",
+      "category_name": "動畫",
+      "tags": [
+        "戲劇",
+        "鮮豔"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/arcane.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/arcane.cube",
+      "emotions": [
+        "史詩",
+        "憤怒",
+        "神秘"
+      ],
+      "valence": -0.1,
+      "arousal": 0.6,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "冷暖分離",
+        "saturation": "高飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "夜景",
+        "人像"
+      ],
+      "styles": [
+        "電影感",
+        "實驗"
+      ]
+    },
+    {
+      "id": "pro160ns",
+      "name": "Fuji Pro 160NS",
+      "name_en": "Fujifilm Pro 160NS",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "柔和",
+        "人像"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/pro160ns.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/pro160ns.cube",
+      "emotions": [
+        "寧靜",
+        "治癒",
+        "浪漫"
+      ],
+      "valence": 0.5,
+      "arousal": -0.6,
+      "quadrant": "正向低能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "人像",
+        "風景"
+      ],
+      "styles": [
+        "底片感"
+      ]
+    },
+    {
+      "id": "superia1600",
+      "name": "Fuji Superia 1600",
+      "name_en": "Fujifilm Superia 1600",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "夜景",
+        "冷調"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/superia1600.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/superia1600.cube",
+      "emotions": [
+        "孤獨",
+        "懷舊",
+        "寧靜"
+      ],
+      "valence": -0.1,
+      "arousal": -0.3,
+      "quadrant": "負向低能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "夜景",
+        "街拍"
+      ],
+      "styles": [
+        "底片感"
+      ]
+    },
+    {
+      "id": "e100vs",
+      "name": "Ektachrome E100VS",
+      "name_en": "Kodak Ektachrome E100VS",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "鮮豔",
+        "風景"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/e100vs.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/e100vs.cube",
+      "emotions": [
+        "歡快",
+        "活力",
+        "熱烈"
+      ],
+      "valence": 0.7,
+      "arousal": 0.6,
+      "quadrant": "正向高能",
+      "color": {
+        "temperature": "中性",
+        "saturation": "高飽和",
+        "contrast": "高對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "風景",
+        "美食／產品"
+      ],
+      "styles": [
+        "底片感",
+        "復古"
+      ]
+    },
+    {
+      "id": "max800",
+      "name": "Kodak Max 800",
+      "name_en": "Kodak Max 800",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "溫暖",
+        "懷舊"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/max800.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/max800.cube",
+      "emotions": [
+        "懷舊",
+        "溫馨",
+        "歡快"
+      ],
+      "valence": 0.5,
+      "arousal": 0.1,
+      "quadrant": "正向高能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "街拍",
+        "人像"
+      ],
+      "styles": [
+        "底片感",
+        "復古"
+      ]
+    },
+    {
+      "id": "sensia100",
+      "name": "Fuji Sensia 100",
+      "name_en": "Fujifilm Sensia 100",
+      "category": "still",
+      "category_name": "攝影底片",
+      "tags": [
+        "冷調",
+        "鮮豔"
+      ],
+      "source_type": "plugin",
+      "source_type_name": "外掛／LUT 包",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/sensia100.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/sensia100.cube",
+      "emotions": [
+        "寧靜",
+        "歡快"
+      ],
+      "valence": 0.55,
+      "arousal": 0.0,
+      "quadrant": "正向高能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "高飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "風景",
+        "街拍"
+      ],
+      "styles": [
+        "底片感"
+      ]
+    },
+    {
+      "id": "storm",
+      "name": "暴風雨前",
+      "name_en": "Before the Storm",
+      "category": "season",
+      "category_name": "季節／天氣",
+      "tags": [
+        "冷調",
+        "戲劇"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/storm.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/storm.cube",
+      "emotions": [
+        "不安",
+        "緊張",
+        "史詩"
+      ],
+      "valence": -0.4,
+      "arousal": 0.5,
+      "quadrant": "負向高能",
+      "color": {
+        "temperature": "冷調",
+        "saturation": "低飽和",
+        "contrast": "中對比",
+        "key": "暗調"
+      },
+      "scenes": [
+        "風景"
+      ],
+      "styles": [
+        "電影感",
+        "寫實"
+      ]
+    },
+    {
+      "id": "heatwave",
+      "name": "酷暑",
+      "name_en": "Heatwave",
+      "category": "season",
+      "category_name": "季節／天氣",
+      "tags": [
+        "溫暖"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/heatwave.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/heatwave.cube",
+      "emotions": [
+        "熱烈",
+        "不安",
+        "活力"
+      ],
+      "valence": 0.1,
+      "arousal": 0.6,
+      "quadrant": "正向高能",
+      "color": {
+        "temperature": "暖調",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "亮調"
+      },
+      "scenes": [
+        "街拍",
+        "風景"
+      ],
+      "styles": [
+        "寫實",
+        "電影感"
+      ]
+    },
+    {
+      "id": "dusk_purple",
+      "name": "紫色黃昏",
+      "name_en": "Purple Dusk",
+      "category": "season",
+      "category_name": "季節／天氣",
+      "tags": [
+        "柔和",
+        "實驗"
+      ],
+      "source_type": "none",
+      "source_type_name": "無官方版本",
+      "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/dusk_purple.json",
+      "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/dusk_purple.cube",
+      "emotions": [
+        "浪漫",
+        "夢幻",
+        "寧靜"
+      ],
+      "valence": 0.6,
+      "arousal": -0.3,
+      "quadrant": "正向低能",
+      "color": {
+        "temperature": "冷暖分離",
+        "saturation": "中飽和",
+        "contrast": "中對比",
+        "key": "中間調"
+      },
+      "scenes": [
+        "風景",
+        "人像"
+      ],
+      "styles": [
+        "實驗"
       ]
     }
   ]

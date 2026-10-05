@@ -1,0 +1,75 @@
+{
+  "id": "madmax",
+  "name": "瘋狂麥斯：憤怒道",
+  "name_en": "Mad Max: Fury Road",
+  "category": "movie",
+  "category_name": "經典電影",
+  "tags": [
+    "鮮豔",
+    "戲劇"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/madmax.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/madmax.cube",
+  "description": "極致的橘與青，高飽和、高對比，炙熱得像要燒起來。",
+  "reference": "《瘋狂麥斯：憤怒道》",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1.4,
+    "con": 1.2,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      -0.03,
+      0.01,
+      0.05
+    ],
+    "hi": [
+      0.06,
+      0.02,
+      -0.04
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  },
+  "emotions": [
+    "熱烈",
+    "憤怒",
+    "史詩"
+  ],
+  "valence": -0.05,
+  "arousal": 0.95,
+  "quadrant": "負向高能",
+  "color": {
+    "temperature": "冷暖分離",
+    "saturation": "高飽和",
+    "contrast": "高對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "風景"
+  ],
+  "styles": [
+    "電影感"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "storm",
+  "name": "暴風雨前",
+  "name_en": "Before the Storm",
+  "category": "season",
+  "category_name": "季節／天氣",
+  "tags": [
+    "冷調",
+    "戲劇"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/storm.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/storm.cube",
+  "description": "壓暗、去飽和的冷色調，烏雲壓頂的張力。",
+  "reference": "風景、戲劇場景",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": -0.2,
+    "temp": -0.15,
+    "tint": 0,
+    "sat": 0.7,
+    "con": 1.2,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  },
+  "emotions": [
+    "不安",
+    "緊張",
+    "史詩"
+  ],
+  "valence": -0.4,
+  "arousal": 0.5,
+  "quadrant": "負向高能",
+  "color": {
+    "temperature": "冷調",
+    "saturation": "低飽和",
+    "contrast": "中對比",
+    "key": "暗調"
+  },
+  "scenes": [
+    "風景"
+  ],
+  "styles": [
+    "電影感",
+    "寫實"
+  ]
+}

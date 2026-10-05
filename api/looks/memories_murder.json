@@ -1,0 +1,77 @@
+{
+  "id": "memories_murder",
+  "name": "殺人回憶",
+  "name_en": "Memories of Murder",
+  "category": "asia",
+  "category_name": "亞洲影視",
+  "tags": [
+    "低飽和",
+    "懷舊"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/memories_murder.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/memories_murder.cube",
+  "description": "80 年代韓國鄉村的黃綠低飽和，稻田裡藏著無解的謎。",
+  "reference": "《殺人回憶》",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0.12,
+    "tint": -0.15,
+    "sat": 0.7,
+    "con": 1.05,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.02,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  },
+  "emotions": [
+    "荒涼",
+    "不安",
+    "憂鬱"
+  ],
+  "valence": -0.65,
+  "arousal": 0.1,
+  "quadrant": "負向高能",
+  "color": {
+    "temperature": "中性",
+    "saturation": "低飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "風景",
+    "人像"
+  ],
+  "styles": [
+    "電影感",
+    "寫實"
+  ]
+}

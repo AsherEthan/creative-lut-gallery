@@ -1,0 +1,78 @@
+{
+  "id": "inmood",
+  "name": "花樣年華",
+  "name_en": "In the Mood for Love",
+  "category": "asia",
+  "category_name": "亞洲影視",
+  "tags": [
+    "溫暖",
+    "戲劇"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/inmood.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/inmood.cube",
+  "description": "濃郁的紅與墨綠、昏黃的燈，旗袍和走廊裡的欲言又止。",
+  "reference": "《花樣年華》",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": -0.15,
+    "temp": 0.2,
+    "tint": 0.05,
+    "sat": 1.15,
+    "con": 1.15,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0.03,
+      0.01,
+      -0.02
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  },
+  "emotions": [
+    "浪漫",
+    "憂鬱",
+    "懷舊"
+  ],
+  "valence": 0.0,
+  "arousal": -0.3,
+  "quadrant": "正向低能",
+  "color": {
+    "temperature": "暖調",
+    "saturation": "高飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "室內",
+    "人像",
+    "夜景"
+  ],
+  "styles": [
+    "電影感",
+    "復古"
+  ]
+}

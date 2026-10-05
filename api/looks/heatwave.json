@@ -1,0 +1,76 @@
+{
+  "id": "heatwave",
+  "name": "酷暑",
+  "name_en": "Heatwave",
+  "category": "season",
+  "category_name": "季節／天氣",
+  "tags": [
+    "溫暖"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/heatwave.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/heatwave.cube",
+  "description": "被曬到發白的黃色調，空氣都在晃動。",
+  "reference": "夏日街拍、公路片",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0.15,
+    "temp": 0.4,
+    "tint": 0,
+    "sat": 1.05,
+    "con": 0.95,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.03,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  },
+  "emotions": [
+    "熱烈",
+    "不安",
+    "活力"
+  ],
+  "valence": 0.1,
+  "arousal": 0.6,
+  "quadrant": "正向高能",
+  "color": {
+    "temperature": "暖調",
+    "saturation": "中飽和",
+    "contrast": "中對比",
+    "key": "亮調"
+  },
+  "scenes": [
+    "街拍",
+    "風景"
+  ],
+  "styles": [
+    "寫實",
+    "電影感"
+  ]
+}

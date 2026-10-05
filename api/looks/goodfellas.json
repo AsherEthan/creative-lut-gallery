@@ -1,0 +1,77 @@
+{
+  "id": "goodfellas",
+  "name": "四海好傢伙",
+  "name_en": "Goodfellas",
+  "category": "crime",
+  "category_name": "犯罪／暴力美學",
+  "tags": [
+    "溫暖",
+    "鮮豔"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/goodfellas.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/goodfellas.cube",
+  "description": "溫暖飽滿的黑幫生活，紙醉金迷。",
+  "reference": "《四海好傢伙》",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0.18,
+    "tint": 0,
+    "sat": 1.1,
+    "con": 1.12,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  },
+  "emotions": [
+    "熱烈",
+    "懷舊",
+    "緊張"
+  ],
+  "valence": 0.0,
+  "arousal": 0.6,
+  "quadrant": "正向高能",
+  "color": {
+    "temperature": "暖調",
+    "saturation": "高飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "室內",
+    "人像"
+  ],
+  "styles": [
+    "電影感",
+    "復古"
+  ]
+}

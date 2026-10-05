@@ -1,0 +1,77 @@
+{
+  "id": "nosferatu24",
+  "name": "諾斯費拉圖",
+  "name_en": "Nosferatu (2024)",
+  "category": "horror",
+  "category_name": "恐怖驚悚",
+  "tags": [
+    "冷調",
+    "低飽和"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/nosferatu24.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/nosferatu24.cube",
+  "description": "幾乎抽成黑白的冷藍色，只留下一點點顏色，像月光下的哥德故事。",
+  "reference": "《諾斯費拉圖》（2024）、哥德恐怖",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": -0.15,
+    "temp": -0.25,
+    "tint": 0,
+    "sat": 0.25,
+    "con": 1.2,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  },
+  "emotions": [
+    "恐懼",
+    "神秘",
+    "荒涼"
+  ],
+  "valence": -0.75,
+  "arousal": 0.2,
+  "quadrant": "負向高能",
+  "color": {
+    "temperature": "冷調",
+    "saturation": "低飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "夜景",
+    "室內"
+  ],
+  "styles": [
+    "電影感",
+    "復古"
+  ]
+}

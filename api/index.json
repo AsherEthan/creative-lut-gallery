@@ -1,10 +1,10 @@
 {
   "name": "Creative LUT Gallery API",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "updated": "2026-10-05",
   "base_url": "https://asherethan.github.io/creative-lut-gallery/api",
   "repository": "https://github.com/AsherEthan/creative-lut-gallery",
-  "count": 253,
+  "count": 327,
   "endpoints": {
     "looks": "https://asherethan.github.io/creative-lut-gallery/api/looks.json",
     "look": "https://asherethan.github.io/creative-lut-gallery/api/looks/{id}.json",

@@ -1,0 +1,77 @@
+{
+  "id": "arcane",
+  "name": "奧術",
+  "name_en": "Arcane",
+  "category": "anime",
+  "category_name": "動畫",
+  "tags": [
+    "戲劇",
+    "鮮豔"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/arcane.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/arcane.cube",
+  "description": "油畫質感的青與琥珀，地下城和上城的對比。",
+  "reference": "《奧術》",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1.15,
+    "con": 1.1,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      -0.02,
+      0.02,
+      0.04
+    ],
+    "hi": [
+      0.05,
+      0.02,
+      -0.03
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  },
+  "emotions": [
+    "史詩",
+    "憤怒",
+    "神秘"
+  ],
+  "valence": -0.1,
+  "arousal": 0.6,
+  "quadrant": "負向高能",
+  "color": {
+    "temperature": "冷暖分離",
+    "saturation": "高飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "夜景",
+    "人像"
+  ],
+  "styles": [
+    "電影感",
+    "實驗"
+  ]
+}

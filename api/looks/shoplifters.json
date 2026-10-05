@@ -1,0 +1,77 @@
+{
+  "id": "shoplifters",
+  "name": "小偷家族",
+  "name_en": "Shoplifters",
+  "category": "asia",
+  "category_name": "亞洲影視",
+  "tags": [
+    "溫暖",
+    "柔和"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/shoplifters.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/shoplifters.cube",
+  "description": "柔和偏暖的自然光，狹小屋子裡的溫度。",
+  "reference": "《小偷家族》",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0.1,
+    "tint": 0,
+    "sat": 0.9,
+    "con": 0.95,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.02,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  },
+  "emotions": [
+    "溫馨",
+    "憂鬱",
+    "治癒"
+  ],
+  "valence": 0.3,
+  "arousal": -0.5,
+  "quadrant": "正向低能",
+  "color": {
+    "temperature": "暖調",
+    "saturation": "中飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "室內",
+    "人像"
+  ],
+  "styles": [
+    "寫實",
+    "底片感"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "max800",
+  "name": "Kodak Max 800",
+  "name_en": "Kodak Max 800",
+  "category": "still",
+  "category_name": "攝影底片",
+  "tags": [
+    "溫暖",
+    "懷舊"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/max800.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/max800.cube",
+  "description": "90 年代的高感負片：偏暖、顆粒感明顯，傻瓜相機的回憶。",
+  "reference": "日常、派對",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0.22,
+    "tint": 0,
+    "sat": 1.05,
+    "con": 1.05,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.03,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  },
+  "emotions": [
+    "懷舊",
+    "溫馨",
+    "歡快"
+  ],
+  "valence": 0.5,
+  "arousal": 0.1,
+  "quadrant": "正向高能",
+  "color": {
+    "temperature": "暖調",
+    "saturation": "中飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "街拍",
+    "人像"
+  ],
+  "styles": [
+    "底片感",
+    "復古"
+  ]
+}

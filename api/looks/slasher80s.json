@@ -1,0 +1,76 @@
+{
+  "id": "slasher80s",
+  "name": "80 年代砍殺片",
+  "name_en": "80s Slasher",
+  "category": "horror",
+  "category_name": "恐怖驚悚",
+  "tags": [
+    "夜景",
+    "懷舊"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/slasher80s.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/slasher80s.cube",
+  "description": "藍色月光的夜戲，加上溫暖的室內燈，經典的露營地恐怖。",
+  "reference": "《月光光心慌慌》《十三號星期五》",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": -0.2,
+    "temp": 0,
+    "tint": 0,
+    "sat": 1,
+    "con": 1.15,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      -0.02,
+      0,
+      0.05
+    ],
+    "hi": [
+      0.03,
+      0.01,
+      -0.01
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  },
+  "emotions": [
+    "恐懼",
+    "緊張",
+    "懷舊"
+  ],
+  "valence": -0.6,
+  "arousal": 0.7,
+  "quadrant": "負向高能",
+  "color": {
+    "temperature": "中性",
+    "saturation": "中飽和",
+    "contrast": "中對比",
+    "key": "暗調"
+  },
+  "scenes": [
+    "夜景"
+  ],
+  "styles": [
+    "復古",
+    "電影感"
+  ]
+}

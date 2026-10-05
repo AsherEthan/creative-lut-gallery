@@ -6,19 +6,19 @@
   "quadrants": [
     {
       "name": "正向高能",
-      "count": 82
+      "count": 92
     },
     {
       "name": "正向低能",
-      "count": 87
+      "count": 91
     },
     {
       "name": "負向高能",
-      "count": 48
+      "count": 100
     },
     {
       "name": "負向低能",
-      "count": 36
+      "count": 44
     }
   ],
   "emotions": [
@@ -27,19 +27,19 @@
       "emotions": [
         {
           "name": "興奮",
-          "count": 19
+          "count": 26
         },
         {
           "name": "歡快",
-          "count": 37
+          "count": 41
         },
         {
           "name": "熱烈",
-          "count": 30
+          "count": 38
         },
         {
           "name": "活力",
-          "count": 35
+          "count": 39
         }
       ]
     },
@@ -48,19 +48,19 @@
       "emotions": [
         {
           "name": "寧靜",
-          "count": 74
+          "count": 81
         },
         {
           "name": "溫馨",
-          "count": 53
+          "count": 55
         },
         {
           "name": "治癒",
-          "count": 31
+          "count": 33
         },
         {
           "name": "浪漫",
-          "count": 28
+          "count": 31
         }
       ]
     },
@@ -69,19 +69,19 @@
       "emotions": [
         {
           "name": "緊張",
-          "count": 30
+          "count": 61
         },
         {
           "name": "恐懼",
-          "count": 6
+          "count": 26
         },
         {
           "name": "不安",
-          "count": 28
+          "count": 60
         },
         {
           "name": "憤怒",
-          "count": 6
+          "count": 17
         }
       ]
     },
@@ -90,19 +90,19 @@
       "emotions": [
         {
           "name": "憂鬱",
-          "count": 33
+          "count": 41
         },
         {
           "name": "孤獨",
-          "count": 33
+          "count": 49
         },
         {
           "name": "荒涼",
-          "count": 22
+          "count": 32
         },
         {
           "name": "疏離",
-          "count": 36
+          "count": 50
         }
       ]
     },
@@ -111,19 +111,19 @@
       "emotions": [
         {
           "name": "懷舊",
-          "count": 93
+          "count": 103
         },
         {
           "name": "夢幻",
-          "count": 34
+          "count": 40
         },
         {
           "name": "神秘",
-          "count": 47
+          "count": 62
         },
         {
           "name": "史詩",
-          "count": 35
+          "count": 44
         }
       ]
     }
@@ -134,19 +134,19 @@
       "values": [
         {
           "name": "暖調",
-          "count": 78
+          "count": 97
         },
         {
           "name": "冷調",
-          "count": 56
+          "count": 77
         },
         {
           "name": "冷暖分離",
-          "count": 17
+          "count": 22
         },
         {
           "name": "中性",
-          "count": 102
+          "count": 131
         }
       ]
     },
@@ -155,19 +155,19 @@
       "values": [
         {
           "name": "高飽和",
-          "count": 63
+          "count": 84
         },
         {
           "name": "中飽和",
-          "count": 103
+          "count": 136
         },
         {
           "name": "低飽和",
-          "count": 63
+          "count": 81
         },
         {
           "name": "黑白",
-          "count": 24
+          "count": 26
         }
       ]
     },
@@ -176,11 +176,11 @@
       "values": [
         {
           "name": "高對比",
-          "count": 58
+          "count": 72
         },
         {
           "name": "中對比",
-          "count": 182
+          "count": 242
         },
         {
           "name": "低對比",
@@ -193,15 +193,15 @@
       "values": [
         {
           "name": "亮調",
-          "count": 33
+          "count": 35
         },
         {
           "name": "中間調",
-          "count": 205
+          "count": 271
         },
         {
           "name": "暗調",
-          "count": 15
+          "count": 21
         }
       ]
     }
@@ -209,49 +209,49 @@
   "scenes": [
     {
       "name": "人像",
-      "count": 175
+      "count": 204
     },
     {
       "name": "風景",
-      "count": 124
+      "count": 149
     },
     {
       "name": "夜景",
-      "count": 57
-    },
-    {
-      "name": "街拍",
-      "count": 147
-    },
-    {
-      "name": "室內",
       "count": 86
     },
     {
+      "name": "街拍",
+      "count": 173
+    },
+    {
+      "name": "室內",
+      "count": 121
+    },
+    {
       "name": "美食／產品",
-      "count": 36
+      "count": 37
     }
   ],
   "styles": [
     {
       "name": "寫實",
-      "count": 68
+      "count": 97
     },
     {
       "name": "復古",
-      "count": 68
+      "count": 89
     },
     {
       "name": "底片感",
-      "count": 99
+      "count": 110
     },
     {
       "name": "電影感",
-      "count": 126
+      "count": 181
     },
     {
       "name": "實驗",
-      "count": 46
+      "count": 65
     }
   ],
   "legacy_tags": [

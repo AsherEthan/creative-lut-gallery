@@ -1,0 +1,76 @@
+{
+  "id": "dusk_purple",
+  "name": "紫色黃昏",
+  "name_en": "Purple Dusk",
+  "category": "season",
+  "category_name": "季節／天氣",
+  "tags": [
+    "柔和",
+    "實驗"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/dusk_purple.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/dusk_purple.cube",
+  "description": "天空染成紫粉色，暗部偏藍、亮部偏暖。",
+  "reference": "黃昏人像、城市天際線",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0,
+    "temp": 0,
+    "tint": 0.25,
+    "sat": 1.1,
+    "con": 1,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      -0.01,
+      0.04
+    ],
+    "hi": [
+      0.05,
+      0.01,
+      -0.01
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  },
+  "emotions": [
+    "浪漫",
+    "夢幻",
+    "寧靜"
+  ],
+  "valence": 0.6,
+  "arousal": -0.3,
+  "quadrant": "正向低能",
+  "color": {
+    "temperature": "冷暖分離",
+    "saturation": "中飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "風景",
+    "人像"
+  ],
+  "styles": [
+    "實驗"
+  ]
+}

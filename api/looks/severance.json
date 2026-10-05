@@ -1,0 +1,76 @@
+{
+  "id": "severance",
+  "name": "人生切割術",
+  "name_en": "Severance",
+  "category": "tv",
+  "category_name": "劇集",
+  "tags": [
+    "冷調",
+    "低飽和"
+  ],
+  "source_type": "none",
+  "source_type_name": "無官方版本",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/severance.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/severance.cube",
+  "description": "冷白、帶一點綠的辦公室，乾淨得令人不安。",
+  "reference": "《人生切割術》",
+  "where_to_find": "沒有官方 LUT，市面上多為仿作。可以用本站版本當起點，再依畫面微調。",
+  "params": {
+    "exp": 0.1,
+    "temp": -0.15,
+    "tint": -0.15,
+    "sat": 0.7,
+    "con": 1.05,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  },
+  "emotions": [
+    "疏離",
+    "不安",
+    "孤獨"
+  ],
+  "valence": -0.5,
+  "arousal": -0.2,
+  "quadrant": "負向低能",
+  "color": {
+    "temperature": "冷調",
+    "saturation": "低飽和",
+    "contrast": "高對比",
+    "key": "亮調"
+  },
+  "scenes": [
+    "室內"
+  ],
+  "styles": [
+    "電影感",
+    "實驗"
+  ]
+}

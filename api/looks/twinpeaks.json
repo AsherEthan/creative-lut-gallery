@@ -1,0 +1,77 @@
+{
+  "id": "twinpeaks",
+  "name": "雙峰",
+  "name_en": "Twin Peaks",
+  "category": "tv",
+  "category_name": "劇集",
+  "tags": [
+    "溫暖",
+    "懷舊"
+  ],
+  "source_type": "plugin",
+  "source_type_name": "外掛／LUT 包",
+  "url": "https://asherethan.github.io/creative-lut-gallery/api/looks/twinpeaks.json",
+  "cube_url": "https://asherethan.github.io/creative-lut-gallery/api/cube/twinpeaks.cube",
+  "description": "溫暖的木頭紅、櫻桃派和咖啡，平靜小鎮下的詭異夢境。",
+  "reference": "《雙峰》",
+  "where_to_find": "Dehancer、FilmConvert 等底片模擬外掛都有收錄",
+  "params": {
+    "exp": 0,
+    "temp": 0.2,
+    "tint": 0.1,
+    "sat": 1.05,
+    "con": 1.05,
+    "piv": 0.45,
+    "lift": [
+      0,
+      0,
+      0
+    ],
+    "gam": [
+      1,
+      1,
+      1
+    ],
+    "gain": [
+      1,
+      1,
+      1
+    ],
+    "sh": [
+      0,
+      0,
+      0
+    ],
+    "hi": [
+      0,
+      0,
+      0
+    ],
+    "fade": 0.03,
+    "roll": 1,
+    "mix": null,
+    "bw": null
+  },
+  "emotions": [
+    "神秘",
+    "夢幻",
+    "不安"
+  ],
+  "valence": -0.2,
+  "arousal": 0.0,
+  "quadrant": "負向高能",
+  "color": {
+    "temperature": "暖調",
+    "saturation": "中飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "室內",
+    "風景"
+  ],
+  "styles": [
+    "復古",
+    "電影感"
+  ]
+}
