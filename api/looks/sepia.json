@@ -55,5 +55,27 @@
       0.6,
       0.1
     ]
-  }
+  },
+  "emotions": [
+    "懷舊",
+    "溫馨",
+    "憂鬱"
+  ],
+  "valence": 0.2,
+  "arousal": -0.6,
+  "quadrant": "正向低能",
+  "color": {
+    "temperature": "暖調",
+    "saturation": "黑白",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "人像",
+    "室內",
+    "街拍"
+  ],
+  "styles": [
+    "復古"
+  ]
 }

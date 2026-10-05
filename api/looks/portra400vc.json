@@ -51,5 +51,26 @@
     "roll": 1,
     "mix": null,
     "bw": null
-  }
+  },
+  "emotions": [
+    "活力",
+    "溫馨",
+    "歡快"
+  ],
+  "valence": 0.7,
+  "arousal": 0.4,
+  "quadrant": "正向高能",
+  "color": {
+    "temperature": "暖調",
+    "saturation": "中飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "人像",
+    "街拍"
+  ],
+  "styles": [
+    "底片感"
+  ]
 }

@@ -61,5 +61,26 @@
       0.45
     ],
     "bw": null
-  }
+  },
+  "emotions": [
+    "懷舊",
+    "夢幻"
+  ],
+  "valence": 0.3,
+  "arousal": -0.3,
+  "quadrant": "正向低能",
+  "color": {
+    "temperature": "中性",
+    "saturation": "中飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "人像",
+    "室內"
+  ],
+  "styles": [
+    "復古",
+    "實驗"
+  ]
 }

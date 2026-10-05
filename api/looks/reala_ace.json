@@ -50,5 +50,26 @@
     "roll": 1,
     "mix": null,
     "bw": null
-  }
+  },
+  "emotions": [
+    "寧靜",
+    "溫馨"
+  ],
+  "valence": 0.5,
+  "arousal": -0.2,
+  "quadrant": "正向低能",
+  "color": {
+    "temperature": "中性",
+    "saturation": "中飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "人像",
+    "街拍",
+    "美食／產品"
+  ],
+  "styles": [
+    "寫實"
+  ]
 }

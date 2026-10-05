@@ -52,5 +52,27 @@
     "roll": 1,
     "mix": null,
     "bw": null
-  }
+  },
+  "emotions": [
+    "疏離",
+    "憂鬱",
+    "神秘"
+  ],
+  "valence": -0.4,
+  "arousal": -0.2,
+  "quadrant": "負向低能",
+  "color": {
+    "temperature": "冷調",
+    "saturation": "低飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "街拍",
+    "夜景",
+    "風景"
+  ],
+  "styles": [
+    "電影感"
+  ]
 }

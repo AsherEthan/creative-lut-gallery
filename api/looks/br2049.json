@@ -61,5 +61,26 @@
       0.6
     ],
     "bw": null
-  }
+  },
+  "emotions": [
+    "孤獨",
+    "荒涼",
+    "史詩"
+  ],
+  "valence": -0.4,
+  "arousal": -0.3,
+  "quadrant": "負向低能",
+  "color": {
+    "temperature": "暖調",
+    "saturation": "中飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "風景",
+    "街拍"
+  ],
+  "styles": [
+    "電影感"
+  ]
 }

@@ -61,5 +61,26 @@
       0.95
     ],
     "bw": null
-  }
+  },
+  "emotions": [
+    "熱烈",
+    "歡快",
+    "活力"
+  ],
+  "valence": 0.8,
+  "arousal": 0.65,
+  "quadrant": "正向高能",
+  "color": {
+    "temperature": "暖調",
+    "saturation": "高飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "美食／產品",
+    "人像"
+  ],
+  "styles": [
+    "寫實"
+  ]
 }

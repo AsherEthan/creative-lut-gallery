@@ -62,5 +62,27 @@
       0.75
     ],
     "bw": null
-  }
+  },
+  "emotions": [
+    "熱烈",
+    "憤怒",
+    "史詩"
+  ],
+  "valence": -0.1,
+  "arousal": 0.95,
+  "quadrant": "負向高能",
+  "color": {
+    "temperature": "暖調",
+    "saturation": "高飽和",
+    "contrast": "中對比",
+    "key": "暗調"
+  },
+  "scenes": [
+    "人像",
+    "風景"
+  ],
+  "styles": [
+    "電影感",
+    "實驗"
+  ]
 }

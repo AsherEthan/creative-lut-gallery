@@ -51,5 +51,28 @@
     "roll": 1,
     "mix": null,
     "bw": null
-  }
+  },
+  "emotions": [
+    "夢幻",
+    "治癒",
+    "浪漫"
+  ],
+  "valence": 0.9,
+  "arousal": -0.3,
+  "quadrant": "正向低能",
+  "color": {
+    "temperature": "中性",
+    "saturation": "中飽和",
+    "contrast": "中對比",
+    "key": "亮調"
+  },
+  "scenes": [
+    "人像",
+    "風景",
+    "室內"
+  ],
+  "styles": [
+    "電影感",
+    "實驗"
+  ]
 }

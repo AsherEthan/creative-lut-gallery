@@ -51,5 +51,27 @@
     "roll": 1,
     "mix": null,
     "bw": null
-  }
+  },
+  "emotions": [
+    "寧靜",
+    "溫馨"
+  ],
+  "valence": 0.35,
+  "arousal": -0.45,
+  "quadrant": "正向低能",
+  "color": {
+    "temperature": "中性",
+    "saturation": "中飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "室內",
+    "人像",
+    "美食／產品"
+  ],
+  "styles": [
+    "電影感",
+    "寫實"
+  ]
 }

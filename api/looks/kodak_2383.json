@@ -51,5 +51,28 @@
     "roll": 0.96,
     "mix": null,
     "bw": null
-  }
+  },
+  "emotions": [
+    "懷舊",
+    "史詩",
+    "神秘"
+  ],
+  "valence": 0.1,
+  "arousal": 0.15,
+  "quadrant": "正向高能",
+  "color": {
+    "temperature": "冷暖分離",
+    "saturation": "中飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "人像",
+    "夜景",
+    "街拍"
+  ],
+  "styles": [
+    "電影感",
+    "復古"
+  ]
 }

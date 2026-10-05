@@ -52,5 +52,27 @@
     "roll": 1,
     "mix": null,
     "bw": null
-  }
+  },
+  "emotions": [
+    "夢幻",
+    "憂鬱",
+    "孤獨"
+  ],
+  "valence": -0.1,
+  "arousal": -0.2,
+  "quadrant": "負向低能",
+  "color": {
+    "temperature": "冷調",
+    "saturation": "高飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "人像",
+    "夜景"
+  ],
+  "styles": [
+    "電影感",
+    "實驗"
+  ]
 }

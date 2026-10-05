@@ -1,6 +1,6 @@
 {
   "name": "Creative LUT Gallery API",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "updated": "2026-10-05",
   "base_url": "https://asherethan.github.io/creative-lut-gallery/api",
   "repository": "https://github.com/AsherEthan/creative-lut-gallery",
@@ -10,7 +10,8 @@
     "look": "https://asherethan.github.io/creative-lut-gallery/api/looks/{id}.json",
     "cube": "https://asherethan.github.io/creative-lut-gallery/api/cube/{id}.cube",
     "categories": "https://asherethan.github.io/creative-lut-gallery/api/categories.json",
-    "sources": "https://asherethan.github.io/creative-lut-gallery/api/sources.json"
+    "sources": "https://asherethan.github.io/creative-lut-gallery/api/sources.json",
+    "moods": "https://asherethan.github.io/creative-lut-gallery/api/moods.json"
   },
   "cube_format": {
     "size": 17,
@@ -65,5 +66,6 @@
     "sh/hi",
     "fade/roll"
   ],
-  "disclaimer": "所有 LUT 均為依風格特徵參數重建的近似版本，並非原廠或製作方檔案。"
+  "disclaimer": "所有 LUT 均為依風格特徵參數重建的近似版本，並非原廠或製作方檔案。",
+  "mood_model": "emotions / valence / arousal / quadrant / color / scenes / styles，詳見 moods.json"
 }

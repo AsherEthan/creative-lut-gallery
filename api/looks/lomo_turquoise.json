@@ -60,5 +60,26 @@
       0.1
     ],
     "bw": null
-  }
+  },
+  "emotions": [
+    "夢幻",
+    "神秘",
+    "不安"
+  ],
+  "valence": 0.0,
+  "arousal": 0.4,
+  "quadrant": "正向高能",
+  "color": {
+    "temperature": "中性",
+    "saturation": "低飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "風景",
+    "街拍"
+  ],
+  "styles": [
+    "實驗"
+  ]
 }

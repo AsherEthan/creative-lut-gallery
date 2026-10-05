@@ -52,5 +52,28 @@
     "roll": 0.94,
     "mix": null,
     "bw": null
-  }
+  },
+  "emotions": [
+    "懷舊",
+    "溫馨",
+    "歡快"
+  ],
+  "valence": 0.6,
+  "arousal": 0.0,
+  "quadrant": "正向高能",
+  "color": {
+    "temperature": "暖調",
+    "saturation": "低飽和",
+    "contrast": "低對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "人像",
+    "室內",
+    "美食／產品"
+  ],
+  "styles": [
+    "復古",
+    "底片感"
+  ]
 }

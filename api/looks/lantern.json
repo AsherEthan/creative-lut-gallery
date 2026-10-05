@@ -61,5 +61,28 @@
       0.8
     ],
     "bw": null
-  }
+  },
+  "emotions": [
+    "神秘",
+    "不安",
+    "懷舊"
+  ],
+  "valence": -0.6,
+  "arousal": 0.4,
+  "quadrant": "負向高能",
+  "color": {
+    "temperature": "暖調",
+    "saturation": "高飽和",
+    "contrast": "中對比",
+    "key": "暗調"
+  },
+  "scenes": [
+    "室內",
+    "夜景",
+    "人像"
+  ],
+  "styles": [
+    "電影感",
+    "復古"
+  ]
 }

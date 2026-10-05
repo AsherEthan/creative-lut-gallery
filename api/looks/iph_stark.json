@@ -54,5 +54,27 @@
       0.65,
       0.1
     ]
-  }
+  },
+  "emotions": [
+    "孤獨",
+    "緊張",
+    "疏離"
+  ],
+  "valence": -0.4,
+  "arousal": 0.35,
+  "quadrant": "負向高能",
+  "color": {
+    "temperature": "中性",
+    "saturation": "黑白",
+    "contrast": "高對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "街拍",
+    "人像"
+  ],
+  "styles": [
+    "電影感",
+    "實驗"
+  ]
 }

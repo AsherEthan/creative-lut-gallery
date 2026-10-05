@@ -55,5 +55,27 @@
       0.45,
       0.55
     ]
-  }
+  },
+  "emotions": [
+    "不安",
+    "恐懼",
+    "懷舊"
+  ],
+  "valence": -0.6,
+  "arousal": 0.5,
+  "quadrant": "負向高能",
+  "color": {
+    "temperature": "中性",
+    "saturation": "黑白",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "人像",
+    "風景"
+  ],
+  "styles": [
+    "復古",
+    "實驗"
+  ]
 }

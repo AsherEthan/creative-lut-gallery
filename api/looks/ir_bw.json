@@ -55,5 +55,26 @@
       0.9,
       -0.35
     ]
-  }
+  },
+  "emotions": [
+    "夢幻",
+    "神秘",
+    "荒涼"
+  ],
+  "valence": 0.2,
+  "arousal": 0.1,
+  "quadrant": "正向高能",
+  "color": {
+    "temperature": "中性",
+    "saturation": "黑白",
+    "contrast": "高對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "風景"
+  ],
+  "styles": [
+    "實驗",
+    "底片感"
+  ]
 }

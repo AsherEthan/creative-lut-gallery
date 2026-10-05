@@ -51,5 +51,27 @@
     "roll": 1,
     "mix": null,
     "bw": null
-  }
+  },
+  "emotions": [
+    "熱烈",
+    "興奮",
+    "史詩"
+  ],
+  "valence": 0.4,
+  "arousal": 0.8,
+  "quadrant": "正向高能",
+  "color": {
+    "temperature": "冷暖分離",
+    "saturation": "高飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "人像",
+    "風景",
+    "街拍"
+  ],
+  "styles": [
+    "電影感"
+  ]
 }

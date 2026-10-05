@@ -1,0 +1,271 @@
+{
+  "version": "1.1.0",
+  "model": "效價 × 喚醒度（Russell 環狀情緒模型）",
+  "valence": "-1 非常負向 … 0 中性 … 1 非常正向",
+  "arousal": "-1 非常平靜 … 0 中性 … 1 非常激烈",
+  "quadrants": [
+    {
+      "name": "正向高能",
+      "count": 82
+    },
+    {
+      "name": "正向低能",
+      "count": 87
+    },
+    {
+      "name": "負向高能",
+      "count": 48
+    },
+    {
+      "name": "負向低能",
+      "count": 36
+    }
+  ],
+  "emotions": [
+    {
+      "group": "正向高能",
+      "emotions": [
+        {
+          "name": "興奮",
+          "count": 19
+        },
+        {
+          "name": "歡快",
+          "count": 37
+        },
+        {
+          "name": "熱烈",
+          "count": 30
+        },
+        {
+          "name": "活力",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "group": "正向低能",
+      "emotions": [
+        {
+          "name": "寧靜",
+          "count": 74
+        },
+        {
+          "name": "溫馨",
+          "count": 53
+        },
+        {
+          "name": "治癒",
+          "count": 31
+        },
+        {
+          "name": "浪漫",
+          "count": 28
+        }
+      ]
+    },
+    {
+      "group": "負向高能",
+      "emotions": [
+        {
+          "name": "緊張",
+          "count": 30
+        },
+        {
+          "name": "恐懼",
+          "count": 6
+        },
+        {
+          "name": "不安",
+          "count": 28
+        },
+        {
+          "name": "憤怒",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "group": "負向低能",
+      "emotions": [
+        {
+          "name": "憂鬱",
+          "count": 33
+        },
+        {
+          "name": "孤獨",
+          "count": 33
+        },
+        {
+          "name": "荒涼",
+          "count": 22
+        },
+        {
+          "name": "疏離",
+          "count": 36
+        }
+      ]
+    },
+    {
+      "group": "複合情緒",
+      "emotions": [
+        {
+          "name": "懷舊",
+          "count": 93
+        },
+        {
+          "name": "夢幻",
+          "count": 34
+        },
+        {
+          "name": "神秘",
+          "count": 47
+        },
+        {
+          "name": "史詩",
+          "count": 35
+        }
+      ]
+    }
+  ],
+  "color": {
+    "temperature": {
+      "name": "色溫",
+      "values": [
+        {
+          "name": "暖調",
+          "count": 78
+        },
+        {
+          "name": "冷調",
+          "count": 56
+        },
+        {
+          "name": "冷暖分離",
+          "count": 17
+        },
+        {
+          "name": "中性",
+          "count": 102
+        }
+      ]
+    },
+    "saturation": {
+      "name": "飽和",
+      "values": [
+        {
+          "name": "高飽和",
+          "count": 63
+        },
+        {
+          "name": "中飽和",
+          "count": 103
+        },
+        {
+          "name": "低飽和",
+          "count": 63
+        },
+        {
+          "name": "黑白",
+          "count": 24
+        }
+      ]
+    },
+    "contrast": {
+      "name": "對比",
+      "values": [
+        {
+          "name": "高對比",
+          "count": 58
+        },
+        {
+          "name": "中對比",
+          "count": 182
+        },
+        {
+          "name": "低對比",
+          "count": 13
+        }
+      ]
+    },
+    "key": {
+      "name": "明暗",
+      "values": [
+        {
+          "name": "亮調",
+          "count": 33
+        },
+        {
+          "name": "中間調",
+          "count": 205
+        },
+        {
+          "name": "暗調",
+          "count": 15
+        }
+      ]
+    }
+  },
+  "scenes": [
+    {
+      "name": "人像",
+      "count": 175
+    },
+    {
+      "name": "風景",
+      "count": 124
+    },
+    {
+      "name": "夜景",
+      "count": 57
+    },
+    {
+      "name": "街拍",
+      "count": 147
+    },
+    {
+      "name": "室內",
+      "count": 86
+    },
+    {
+      "name": "美食／產品",
+      "count": 36
+    }
+  ],
+  "styles": [
+    {
+      "name": "寫實",
+      "count": 68
+    },
+    {
+      "name": "復古",
+      "count": 68
+    },
+    {
+      "name": "底片感",
+      "count": 99
+    },
+    {
+      "name": "電影感",
+      "count": 126
+    },
+    {
+      "name": "實驗",
+      "count": 46
+    }
+  ],
+  "legacy_tags": [
+    "溫暖",
+    "冷調",
+    "懷舊",
+    "戲劇",
+    "柔和",
+    "鮮豔",
+    "低飽和",
+    "夜景",
+    "人像",
+    "風景",
+    "實驗"
+  ],
+  "note": "color 由 LUT 參數實際計算；emotions／valence／arousal／scenes／styles 是依作品基調判斷的建議值。tags 為舊版標籤，保留相容。"
+}

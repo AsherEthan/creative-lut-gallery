@@ -51,5 +51,26 @@
     "roll": 1,
     "mix": null,
     "bw": null
-  }
+  },
+  "emotions": [
+    "憂鬱",
+    "寧靜",
+    "史詩"
+  ],
+  "valence": -0.4,
+  "arousal": -0.5,
+  "quadrant": "負向低能",
+  "color": {
+    "temperature": "冷調",
+    "saturation": "中飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "風景",
+    "人像"
+  ],
+  "styles": [
+    "電影感"
+  ]
 }

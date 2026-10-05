@@ -54,5 +54,26 @@
       0.68,
       0.1
     ]
-  }
+  },
+  "emotions": [
+    "寧靜",
+    "疏離"
+  ],
+  "valence": 0.15,
+  "arousal": -0.45,
+  "quadrant": "正向低能",
+  "color": {
+    "temperature": "中性",
+    "saturation": "黑白",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "風景",
+    "美食／產品",
+    "街拍"
+  ],
+  "styles": [
+    "寫實"
+  ]
 }

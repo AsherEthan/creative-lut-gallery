@@ -61,5 +61,25 @@
       1.05
     ],
     "bw": null
-  }
+  },
+  "emotions": [
+    "史詩",
+    "興奮",
+    "活力"
+  ],
+  "valence": 0.75,
+  "arousal": 0.8,
+  "quadrant": "正向高能",
+  "color": {
+    "temperature": "中性",
+    "saturation": "高飽和",
+    "contrast": "高對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "風景"
+  ],
+  "styles": [
+    "底片感"
+  ]
 }

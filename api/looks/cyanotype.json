@@ -55,5 +55,27 @@
       0.6,
       0.1
     ]
-  }
+  },
+  "emotions": [
+    "神秘",
+    "寧靜",
+    "疏離"
+  ],
+  "valence": -0.1,
+  "arousal": -0.45,
+  "quadrant": "負向低能",
+  "color": {
+    "temperature": "冷調",
+    "saturation": "黑白",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "風景",
+    "人像"
+  ],
+  "styles": [
+    "實驗",
+    "復古"
+  ]
 }

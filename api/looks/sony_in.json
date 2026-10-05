@@ -52,5 +52,28 @@
     "roll": 1,
     "mix": null,
     "bw": null
-  }
+  },
+  "emotions": [
+    "懷舊",
+    "寧靜",
+    "憂鬱"
+  ],
+  "valence": 0.1,
+  "arousal": -0.7,
+  "quadrant": "正向低能",
+  "color": {
+    "temperature": "中性",
+    "saturation": "低飽和",
+    "contrast": "低對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "街拍",
+    "室內",
+    "人像"
+  ],
+  "styles": [
+    "復古",
+    "底片感"
+  ]
 }

@@ -51,5 +51,27 @@
     "roll": 1,
     "mix": null,
     "bw": null
-  }
+  },
+  "emotions": [
+    "不安",
+    "憤怒",
+    "緊張"
+  ],
+  "valence": -0.8,
+  "arousal": 0.7,
+  "quadrant": "負向高能",
+  "color": {
+    "temperature": "冷暖分離",
+    "saturation": "中飽和",
+    "contrast": "高對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "街拍",
+    "夜景",
+    "室內"
+  ],
+  "styles": [
+    "電影感"
+  ]
 }

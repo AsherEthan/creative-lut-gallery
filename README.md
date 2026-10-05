@@ -19,6 +19,7 @@ Base URL：`https://asherethan.github.io/creative-lut-gallery/api`
 | `GET /looks/{id}.json` | 單一風格的完整資料（含參數） |
 | `GET /cube/{id}.cube` | 預先產生的 `.cube`（17³，強度 100%） |
 | `GET /categories.json` | 分類和各分類數量 |
+| `GET /moods.json` | 情緒分類體系和各標籤數量 |
 | `GET /sources.json` | 正版 LUT 來源整理 |
 
 ### 範例
@@ -50,6 +51,13 @@ print(len(looks), looks[0]["name"])
   "category": "pfe",
   "category_name": "印片模擬",
   "tags": ["戲劇", "溫暖"],
+  "emotions": ["懷舊", "史詩", "神秘"],
+  "valence": 0.1,
+  "arousal": 0.15,
+  "quadrant": "正向高能",
+  "color": {"temperature": "冷暖分離", "saturation": "中飽和", "contrast": "中對比", "key": "中間調"},
+  "scenes": ["人像", "夜景", "街拍"],
+  "styles": ["電影感", "復古"],
   "description": "…",
   "reference": "…",
   "source_type": "builtin",
@@ -105,3 +113,32 @@ tools/build_cubes.py    批次產生 .cube 的命令列工具
 ## 授權
 
 程式碼以 MIT 授權釋出。風格名稱中提到的品牌、底片和電影名稱，版權歸各自的所有者。
+
+
+## 情緒標註（v1.1）
+
+每個風格都用四個獨立維度標註，可以自由組合篩選：
+
+| 欄位 | 說明 | 可能的值 |
+|---|---|---|
+| `emotions` | 1–3 個情緒，依貼切程度排序 | 正向高能：興奮、歡快、熱烈、活力<br>正向低能：寧靜、溫馨、治癒、浪漫<br>負向高能：緊張、恐懼、不安、憤怒<br>負向低能：憂鬱、孤獨、荒涼、疏離<br>複合：懷舊、夢幻、神秘、史詩 |
+| `valence` | 效價，-1（負向）到 1（正向） | 數值 |
+| `arousal` | 喚醒度，-1（平靜）到 1（激烈） | 數值 |
+| `quadrant` | 由 valence、arousal 決定的象限 | 正向高能、正向低能、負向高能、負向低能 |
+| `color` | 由 LUT 參數實際計算 | temperature：暖調／冷調／冷暖分離／中性<br>saturation：高飽和／中飽和／低飽和／黑白<br>contrast：高對比／中對比／低對比<br>key：亮調／中間調／暗調 |
+| `scenes` | 適用場景 | 人像、風景、夜景、街拍、室內、美食／產品 |
+| `styles` | 風格 | 寫實、復古、底片感、電影感、實驗 |
+
+完整詞表和各標籤的數量見 `GET /moods.json`。`tags` 是舊版標籤，保留以維持相容。
+
+> 色彩屬性是算出來的；情緒、場景、風格是依作品基調判斷的建議值，不是絕對答案。
+
+```python
+import json, urllib.request
+looks = json.load(urllib.request.urlopen("https://asherethan.github.io/creative-lut-gallery/api/api/looks.json"))["looks"]
+# 憂鬱 + 冷調 + 夜景
+picks = [l for l in looks
+         if "憂鬱" in l["emotions"] and l["color"]["temperature"] == "冷調" and "夜景" in l["scenes"]]
+# 最平靜又最正向的 5 個
+calm = sorted(looks, key=lambda l: l["arousal"] - l["valence"])[:5]
+```

@@ -50,5 +50,28 @@
     "roll": 1,
     "mix": null,
     "bw": null
-  }
+  },
+  "emotions": [
+    "不安",
+    "緊張",
+    "恐懼"
+  ],
+  "valence": -0.6,
+  "arousal": 0.8,
+  "quadrant": "負向高能",
+  "color": {
+    "temperature": "中性",
+    "saturation": "高飽和",
+    "contrast": "中對比",
+    "key": "中間調"
+  },
+  "scenes": [
+    "室內",
+    "人像",
+    "美食／產品"
+  ],
+  "styles": [
+    "實驗",
+    "電影感"
+  ]
 }
